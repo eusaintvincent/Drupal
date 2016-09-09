@@ -7,9 +7,11 @@
   - Procéder à l'installation automatique en utilisant les paramètres standards
 
 ## Installation de Modules : 
+
 ### Avec interface de base + url: #
   - Aller dans Gérer -> Extension -> +Ajouter un nouveau module
   - Rentrer l'adresse du module concerné. ex : http://ftp.drupal.org/files/projects/name.tar.gz
+
 ### Avec interface de base + archive: #
   - Télécharger l'archive du module souhaité
   - Dans la même interface que pour l'url, Selectionner l'archive puis enregistrer
