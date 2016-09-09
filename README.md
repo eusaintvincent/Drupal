@@ -8,11 +8,11 @@
 
 ##Installation de Modules : 
   ###Avec interface de base + url:
-    - Aller dans Gérer -> Extension -> +Ajouter un nouveau module
-    - Rentrer l'adresse du module concerné. ex : http://ftp.drupal.org/files/projects/name.tar.gz
+  - Aller dans Gérer -> Extension -> +Ajouter un nouveau module
+  - Rentrer l'adresse du module concerné. ex : http://ftp.drupal.org/files/projects/name.tar.gz
   ###Avec interface de base + archive:
-    - Télécharger l'archive du module souhaité
-    - Dans la même interface que pour l'url, Selectionner l'archive puis enregistrer
+  - Télécharger l'archive du module souhaité
+  - Dans la même interface que pour l'url, Selectionner l'archive puis enregistrer
 
 ##Modules Importants :
   - Devel: Ajoute des outils de développement au site. Plus d'infos: http://ratatosk.net/drupal/tutorials/debugging-drupal.html
