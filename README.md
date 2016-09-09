@@ -1,4 +1,4 @@
-# Drupal
+# Livre blanc | projet Drupal - Licence
 
 ## Installation du projet en local sur un poste:
   - Télécharger Acquia Dev Desktop : https://dev.acquia.com/downloads
