@@ -12,8 +12,6 @@
 # vendor
 
 # Ignore configuration files that may contain sensitive information.
-sitessettings.php
-sitesservices.yml
 
 # Ignore paths that contain user-generated content.
 sitesfiles
@@ -28,8 +26,6 @@ sitesprivate
 *.iml
 out
 gen### Drupal template
-# Ignore configuration files that may contain sensitive information.
-sites/*/*settings*.php
 
 # Ignore paths that contain generated content.
 files/
