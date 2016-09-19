@@ -1,0 +1,184 @@
+<?php
+/**
+ * @file
+ * Main module file.
+ */
+
+use Drupal\Core\Access\AccessResult;
+use Drupal\Core\Routing\RouteMatchInterface;
+use Drupal\Component\Utility\SafeMarkup;
+use Drupal\markdown\Plugin\Filter\Markdown;
+use Drupal\Component\Utility\Xss;
+use Drupal\Core\Form\FormStateInterface;
+use Drupal\Component\Utility\Html;
+use Drupal\Core\Url;
+use Drupal\Component\Serialization\Json;
+
+/**
+ * Implements hook_theme().
+ */
+function edit_ui_block_theme($existing, $type, $theme, $path) {
+  $items['edit_ui_block_toolbar'] = [
+    'render element' => 'elements',
+  ];
+  return $items;
+}
+
+/**
+ * Implements hook_page_top().
+ *
+ * Add edit UI toolbar to the top of the page automatically.
+ */
+function edit_ui_block_page_top(array &$page_top) {
+  if (!edit_ui_block_toolbar_can_activate() || !edit_ui_block_toolbar_is_active()) {
+    return;
+  }
+
+  $config = \Drupal::config('edit_ui.block');
+  $page_top['page_top']['edit_ui_block_toolbar'] = [
+    '#type' => 'edit_ui_block_toolbar',
+    '#access' => \Drupal::currentUser()->hasPermission('access edit_ui_block toolbar'),
+  ];
+  $page_top['page_top']['edit_ui_block_settings'] = [
+    '#attached' => [
+      'drupalSettings' => [
+        'edit_ui_block' => [
+          'save_button' => $config->get('save_button'),
+          'revert_on_spill' => $config->get('revert_on_spill'),
+        ],
+      ],
+    ],
+  ];
+}
+
+/**
+ * Implements hook_page_bottom().
+ *
+ * Add edit UI toolbar to the top of the page automatically.
+ */
+function edit_ui_block_page_bottom(array &$page_bottom) {
+  if (!edit_ui_block_toolbar_can_activate() || !edit_ui_block_toolbar_is_active()) {
+    return;
+  }
+
+  $page_bottom['page_bottom']['edit_ui_block_dragging_block'] = [
+    '#type' => 'html_tag',
+    '#tag' => 'div',
+    '#attributes' => [
+      'class' => ['edit-ui__dragging'],
+      'id' => 'edit-ui__dragging',
+    ],
+  ];
+}
+
+/**
+ * Implements hook_toolbar().
+ */
+function edit_ui_block_toolbar() {
+  if (!edit_ui_block_toolbar_can_activate()) {
+    return;
+  }
+
+  $tab['edit_ui_block'] = [
+    '#type' => 'toolbar_item',
+    'tab' => [
+      '#type' => 'html_tag',
+      '#tag' => 'button',
+      '#value' => t('Block layout'),
+      '#attributes' => [
+        'title' => t('Block layout'),
+        'class' => ['toolbar-icon', 'edit-ui__toolbar-icon', 'js-edit-ui__menu'],
+        'role' => 'button',
+        'aria-pressed' => 'false',
+      ],
+    ],
+    '#wrapper_attributes' => [
+      'class' => ['edit-ui__toolbar-tab'],
+    ],
+    '#attached' => [
+      'library' => [
+        'edit_ui_block/edit_ui_block.toolbar',
+      ],
+    ],
+  ];
+
+  return $tab;
+}
+
+/**
+ * Implements hook_form_FORM_ID_alter().
+ */
+function edit_ui_block_form_block_form_alter(&$form, FormStateInterface $form_state) {
+  $request = \Drupal::request();
+  $module = $request->request->get('module');
+
+  if ($module == 'edit_ui_block') {
+    $weight = $request->query->get('weight');
+
+    $form['module'] = [
+      '#type' => 'hidden',
+      '#value' => $module,
+      '#id' => 'module',
+      '#name' => 'module',
+    ];
+
+    if (!empty($weight)) {
+      $form_state->getFormObject()->getEntity()->setWeight($weight);
+      $form['weight'] = [
+        '#type' => 'hidden',
+        '#value' => $weight,
+        '#id' => 'weight',
+        '#name' => 'weight',
+      ];
+    }
+
+    $form['actions']['submit']['#attributes'] = ['class' => ['use-ajax-submit']];
+    $form['actions']['submit']['#submit'][] = 'edit_ui_block_form_submit';
+  }
+}
+
+/**
+ * Edit UI form_block submit callback.
+ *
+ * @param array $form
+ *   The block instance edit form.
+ * @param \Drupal\Core\Form\FormStateInterface $form_state
+ *   The block instance form state.
+ */
+function edit_ui_block_form_submit(array $form, FormStateInterface $form_state) {
+  if ($form_state->getValue('module') == 'edit_ui_block') {
+    $block_id = $form_state->getFormObject()->getEntity()->getOriginalId();
+    $form_state->setRedirect('edit_ui.block.create', ['block_id' => $block_id]);
+  }
+}
+
+/**
+ * Check if the user can activate the toolbar or not.
+ *
+ * @return bool
+ *   Can the user activate the toolbar ?
+ */
+function edit_ui_block_toolbar_can_activate() {
+  return !\Drupal::service('router.admin_context')->isAdminRoute() &&
+          \Drupal::currentUser()->hasPermission('access edit_ui_block toolbar');
+}
+
+/**
+ * Check if the toolb ar is active or not.
+ *
+ * @return bool
+ *   Is the toolbar active ?
+ */
+function edit_ui_block_toolbar_is_active() {
+  $is_active = FALSE;
+
+  $cookies = \Drupal::request()->cookies;
+  if ($cookies->has('edit_ui_block')) {
+    $cookie = Json::decode($cookies->get('edit_ui_block'));
+    if (!empty($cookie['isOpen'])) {
+      $is_active = TRUE;
+    }
+  }
+
+  return $is_active;
+}

@@ -1,0 +1,13 @@
+edit_ui_contextual:
+  version: VERSION
+  js:
+    # Behavior
+    js/edit-ui-contextual.block.js: {}
+    # Views.
+    js/block/views/ContextualVisualView.js: {}
+  dependencies:
+    - core/drupal
+    - core/backbone
+    - core/jquery
+    - edit_ui/edit_ui.ajax
+    - edit_ui/edit_ui.block

@@ -1,0 +1,16 @@
+name: Edit UI block
+type: module
+description: Frontend administration for blocks.
+package: Administration
+# core: 8.x
+dependencies:
+  - edit_ui
+  - block
+  - toolbar
+configure: edit_ui.block.settings
+
+# Information added by Drupal.org packaging script on 2016-04-06
+version: '8.x-1.0-rc1'
+core: '8.x'
+project: 'edit_ui'
+datestamp: 1459933142

@@ -1,0 +1,35 @@
+<?php
+/**
+ * @file
+ * Main module file.
+ */
+
+use Drupal\Core\Access\AccessResult;
+use Drupal\Core\Routing\RouteMatchInterface;
+use Drupal\Component\Utility\SafeMarkup;
+use Drupal\markdown\Plugin\Filter\Markdown;
+use Drupal\Component\Utility\Xss;
+use Drupal\Core\Form\FormStateInterface;
+use Drupal\Component\Utility\Html;
+use Drupal\Core\Url;
+use Drupal\Component\Serialization\Json;
+
+/**
+ * Implements hook_block_view_alter().
+ */
+function edit_ui_contextual_block_view_alter(array &$build, \Drupal\Core\Block\BlockPluginInterface $block) {
+  $build['#contextual_links']['edit_ui_contextual'] = [
+    'route_parameters' => ['block' => $build['#id']],
+  ];
+}
+
+/**
+ * Implements hook_page_attachments().
+ */
+function edit_ui_contextual_page_attachments(array &$page) {
+  if (!\Drupal::currentUser()->hasPermission('access contextual links')) {
+    return;
+  }
+
+  $page['#attached']['library'][] = 'edit_ui_contextual/edit_ui_contextual';
+}
