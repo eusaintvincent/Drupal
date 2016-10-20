@@ -114,6 +114,8 @@
                     }
                 }
                 a:hover {
+                    transition: 0.3s;
+                    transition-timing-function: linear;
                     color: #000000 !important;
                 }
             }

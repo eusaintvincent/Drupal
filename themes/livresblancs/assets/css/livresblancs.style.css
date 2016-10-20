@@ -8576,24 +8576,8 @@ body {
 .page-wrapper {
   width: 1225px;
   margin: 0 auto;
-  padding: 15px 0px 0px 37px;
-  box-shadow: 0px 0px 32px 12px #fafafa; }
-
-.material-icons, .navbar-header .block--account-authitificated li:last-child a::after, .navbar-header .block--account-anonymous li:last-child a::after {
-  vertical-align: middle;
-  direction: ltr;
-  /*display: inline-block;*/
-  font-family: 'Material Icons';
-  /*font-size: inherit !important;*/
-  font-style: normal;
-  font-weight: normal;
-  letter-spacing: normal;
-  line-height: 1;
-  text-transform: none;
-  white-space: nowrap;
-  word-wrap: normal;
-  -webkit-font-feature-settings: 'liga';
-  -webkit-font-smoothing: antialiased; }
+  padding: 15px 0px 0px 33px;
+  box-shadow: 0px 0px 12px 200px #e8e8e8; }
 
 .material-icons, .navbar-header .block--account-authitificated li:last-child a::after, .navbar-header .block--account-anonymous li:last-child a::after {
   vertical-align: middle;
@@ -8701,6 +8685,8 @@ header {
       .navbar-header .block--livresblancs-main-menu .navbar-nav li a i {
         font-size: 21px; }
     .navbar-header .block--livresblancs-main-menu .navbar-nav li a:hover {
+      transition: 0.3s;
+      transition-timing-function: linear;
       color: #000000 !important; }
 
 /*# sourceMappingURL=livresblancs.style.css.map */
