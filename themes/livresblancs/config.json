@@ -1,0 +1,36 @@
+{
+  "name": "livresblancs",
+  "description": "A theme based on Radix.",
+  "proxy" : "http://livresblancs.dev.dp",
+  "bowerDir": "./bower_components",
+  "css": {
+    "file" : "livresblancs.style.scss",
+    "src": [
+      "assets/scss/**/*.scss"
+    ],
+    "dest": "assets/css",
+    "includePaths": [
+      "./bower_components/bootstrap-sass/assets/stylesheets",
+      "./bower_components/font-awesome/scss",
+      "../radix/scss"
+    ]
+  },
+  "js": {
+    "file" : "livresblancs.script.js",
+    "src": [
+      "assets/js/**/*.js"
+    ]
+  },
+  "images": {
+    "src": [
+      "assets/images/**/*"
+    ],
+    "dest": "images/"
+  },
+  "fonts": {
+    "src": [
+      "./bower_components/font-awesome/fonts/**.*"
+    ],
+    "dest": "./assets/fonts/"
+  }
+}

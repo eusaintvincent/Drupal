@@ -1,0 +1,30 @@
+// Styles for Header
+// -----------------------------------------------------------------------------
+.block--breadcrumbs {
+    .breadcrumb {
+        padding-left: 10px;
+        background-color: transparent;
+        li {
+            width: auto;
+            color: rgb(102, 102, 102);
+            a {
+                color: rgb(102, 102, 102);
+            }
+            a:hover {
+                transition: 0.3s;
+                transition-timing-function: linear;
+                text-decoration: none;
+                color: rgb(252, 13, 0);
+            }
+        }
+        li:first-child::before {
+            content: '';
+        }
+        li::before {
+            content: '>';
+            color: #00AA00;
+        }
+    }
+}
+
+

@@ -1,0 +1,12 @@
+base:
+  version: VERSION
+  css:
+    theme:
+      assets/css/livresblancs.style.css: {}
+  js:
+    bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js: {}
+    assets/js/livresblancs.script.js: {}
+  dependencies:
+    - core/jquery
+    - core/jquery.once
+    - core/drupal

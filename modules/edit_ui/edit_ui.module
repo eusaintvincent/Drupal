@@ -1,0 +1,24 @@
+<?php
+/**
+ * @file
+ * Main module file.
+ */
+
+use Drupal\Component\Utility\Html;
+
+/**
+ * Implements hook_block_view_alter().
+ */
+function edit_ui_block_view_alter(array &$build, \Drupal\Core\Block\BlockPluginInterface $block) {
+  if ($block->getPluginId() == 'system_messages_block') {
+    $build['#attributes']['class'][] = 'js-edit-ui__block__' . $block->getPluginId();
+  }
+}
+
+/**
+ * Implements hook_preprocess_HOOK() for region templates.
+ */
+function edit_ui_preprocess_region(&$variables) {
+  $variables['attributes']['class'][] = 'js-edit-ui__region';
+  $variables['attributes']['data-edit-ui-region'] = $variables['region'];
+}

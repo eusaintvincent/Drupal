@@ -1,0 +1,122 @@
+// Styles for Menus and Navs
+// -----------------------------------------------------------------------------
+.nav {
+    background-color: #FFFFFF;
+}
+
+.container-fluid {
+    background-color: #FFFFFF;
+}
+
+.navbar {
+    border: none;
+    margin-bottom: 30px;
+}
+
+.navbar-header {
+    float: right;
+
+    .navbar-nav {
+        li {
+            a {
+                padding: 10px 0;
+                background-color: #FFFFFF !important;
+                font-size: 13px;
+            }
+
+        }
+
+    }
+    .block--langue {
+        .navbar-nav {
+            padding-right: 20px;
+        }
+        float: right;
+        li:first-child {
+            a::after {
+                color: rgb(153, 153, 153) !important;
+            }
+            a:hover {
+                transition: 0.3s;
+                transition-timing-function: linear;
+                color: rgb(0, 101, 179);
+            }
+        }
+    }
+    .block--account-authitificated, .block--account-anonymous {
+        .navbar-nav {
+            padding-right: 20px;
+        }
+        float: right;
+        li:first-child {
+            a::after {
+                color: rgb(153, 153, 153) !important;
+                content: '|';
+                padding: 0 4px;
+            }
+            a:hover {
+                transition: 0.3s;
+                transition-timing-function: linear;
+                color: rgb(0, 101, 179);
+            }
+        }
+
+        li:last-child {
+            a::after {
+                padding-left: 10px;
+                color: rgba(0, 101, 179, 1);
+                @extend .material-icons;
+                content: '\E853';
+                font-size: 20px !important;
+            }
+            a:hover::after, a:hover {
+
+                transition: 0.3s;
+                transition-timing-function: linear;
+                color: #88AC2E;
+
+            }
+        }
+    }
+    .block--livresblancs-account-menu {
+        float: right;
+        .navbar-nav {
+            a {
+                font-size: 13px;
+                background-color: #FFFFFF !important;
+                color: rgb(153, 153, 153) !important;
+            }
+        }
+    }
+    .block--livresblancs-main-menu {
+        .navbar-nav {
+            li {
+                padding-right: 20px;
+                padding-left: 11px;
+                a {
+                    text-transform: uppercase;
+                    font-size: 14px;
+                    font-weight: 700;
+                    padding-bottom: 5px;
+                    padding-top: 5px;
+                    background-color: #FFFFFF !important;
+                    color: rgb(153, 153, 153) !important;
+                    &.is-active::after {
+                        display: block;
+                        content: " ";
+                        margin-top: 3px;
+                        height: 3px;
+                        width: 100%;
+                        background-color: #EEEEEE !important;
+                    }
+                    i {
+                        font-size: 21px;
+                    }
+                }
+                a:hover {
+                    color: #000000 !important;
+                }
+            }
+        }
+    }
+}
