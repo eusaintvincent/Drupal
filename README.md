@@ -45,7 +45,7 @@ Push du projet sur GITHUB
 Sur l’environnement de développement, on sauvegarde toutes nos modifications en créant un nouveau dump de la base de données et en exportants les configurations de notre projet :
 
  * (Sur le back office drupal) -> Configuration -> Development -> Synchronisation de configuration -> Exporter (à mettre dans LivresBlancs/backup-config/)
- * drush sql-dump --result-file="backup/dump.sql"
+ * drush sql-dump --result-file="backup/dump-[VotrePseudo]-[Date].sql"
  * git add -A
  * git commit -am "Sauvegarde des dernières modifications effectués sur l'environnement de développement"
  * git push
@@ -57,7 +57,7 @@ Récupération du projet
  * git pull
  * (Sur le back office drupal) -> Configuration -> Development -> Synchronisation de configuration -> Exporter (à récupérer dans LivresBlancs/backup-config/)
  * drush sql-drop
- * drush sql-query --file="backup/dump.sql"
+ * drush sql-query --file="backup/dump-[VotrePseudo]-[Date].sql"
  
 Si vous utilisez les caches, il sera nécessaire de les vider pour voir toutes les nouveautés grâce à la commande suivante:
 
