@@ -12,7 +12,7 @@ Installation
 
 Récupérer le projet sur notre environnement de développement:
 
- * git clone git@github.com:eusaintvincent/LivresBlancs.git
+ * git clone git@github.com:eusaintvincent/Livres-Blancs.git
  * cd [votre_repository]
 
 On met ensuite à jour les autorisations en écriture sur les dossiers qui le nécessitent :
