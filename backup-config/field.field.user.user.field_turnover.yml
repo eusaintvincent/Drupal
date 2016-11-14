@@ -1,0 +1,21 @@
+uuid: f4b77635-6761-4ea4-b522-13e0ccb2e504
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_turnover
+  module:
+    - options
+    - user
+id: user.user.field_turnover
+field_name: field_turnover
+entity_type: user
+bundle: user
+label: 'Chiffre d''affaires'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

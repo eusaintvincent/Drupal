@@ -1,0 +1,21 @@
+uuid: 37d87c90-14dc-41da-9c6f-d07d0648f474
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_professional_phone
+  module:
+    - telephone
+    - user
+id: user.user.field_professional_phone
+field_name: field_professional_phone
+entity_type: user
+bundle: user
+label: 'Téléphone professionnel'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: telephone

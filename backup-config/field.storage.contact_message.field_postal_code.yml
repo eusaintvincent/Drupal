@@ -1,0 +1,20 @@
+uuid: d8c72864-6c4e-413c-b653-003efe5288e0
+langcode: fr
+status: true
+dependencies:
+  module:
+    - contact
+id: contact_message.field_postal_code
+field_name: field_postal_code
+entity_type: contact_message
+type: integer
+settings:
+  unsigned: false
+  size: normal
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

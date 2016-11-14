@@ -1,0 +1,23 @@
+uuid: d44233e2-0be4-4998-ae72-2a975555494b
+langcode: fr
+status: true
+dependencies:
+  config:
+    - contact.form.feedback
+    - field.storage.contact_message.field_service_to_contact
+  module:
+    - options
+id: contact_message.feedback.field_service_to_contact
+field_name: field_service_to_contact
+entity_type: contact_message
+bundle: feedback
+label: 'Service à contacter'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 'Cliquez ici'
+default_value_callback: ''
+settings: {  }
+field_type: list_string

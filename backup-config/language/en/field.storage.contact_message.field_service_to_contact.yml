@@ -1,0 +1,16 @@
+settings:
+  allowed_values:
+    -
+      label: 'Click here'
+    -
+      label: 'Commercial service'
+    -
+      label: 'Administratif/invoicing service'
+    -
+      label: 'Communication service'
+    -
+      label: 'Client support service'
+    -
+      label: 'HR/candidature service'
+    -
+      label: 'Other requirement'

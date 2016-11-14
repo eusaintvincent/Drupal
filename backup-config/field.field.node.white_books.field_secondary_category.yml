@@ -1,0 +1,21 @@
+uuid: 28df4be4-194c-476e-b1f8-57d73fc28e49
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_secondary_category
+    - node.type.white_books
+  module:
+    - options
+id: node.white_books.field_secondary_category
+field_name: field_secondary_category
+entity_type: node
+bundle: white_books
+label: 'Catégories secondaires'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

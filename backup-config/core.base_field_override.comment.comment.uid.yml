@@ -1,0 +1,22 @@
+uuid: 1720894f-661d-40b8-b3a3-e172b4db08da
+langcode: fr
+status: true
+dependencies:
+  config:
+    - comment.type.comment
+id: comment.comment.uid
+field_name: uid
+entity_type: comment
+bundle: comment
+label: 'Identifiant (ID) utilisateur'
+description: 'L''identifiant (ID) de l''auteur du commentaire.'
+required: false
+translatable: false
+default_value:
+  -
+    target_id: '0'
+default_value_callback: ''
+settings:
+  handler: default
+  handler_settings: {  }
+field_type: entity_reference

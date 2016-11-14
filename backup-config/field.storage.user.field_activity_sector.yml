@@ -1,0 +1,27 @@
+uuid: d17fe788-a012-448d-9d0e-2083b81ef2ae
+langcode: fr
+status: true
+dependencies:
+  module:
+    - options
+    - user
+id: user.field_activity_sector
+field_name: field_activity_sector
+entity_type: user
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: 'Industrie agroalimentaire'
+      label: 'Industrie agroalimentaire'
+    -
+      value: Informatique
+      label: Informatique
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

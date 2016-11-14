@@ -1,0 +1,22 @@
+uuid: 49ab1f53-3e60-42d2-bf3b-a4d9fc47706b
+langcode: fr
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - livresblancs
+_core:
+  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
+id: livresblancs_help
+theme: livresblancs
+region: content
+weight: -6
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

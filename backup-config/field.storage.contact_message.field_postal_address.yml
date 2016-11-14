@@ -1,0 +1,21 @@
+uuid: c7199201-23bc-45be-a08f-3b029ab3bf19
+langcode: fr
+status: true
+dependencies:
+  module:
+    - contact
+id: contact_message.field_postal_address
+field_name: field_postal_address
+entity_type: contact_message
+type: string
+settings:
+  max_length: 255
+  is_ascii: false
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

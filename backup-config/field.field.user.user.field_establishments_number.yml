@@ -1,0 +1,21 @@
+uuid: d3278802-0301-4111-85df-9e87da73557e
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_establishments_number
+  module:
+    - options
+    - user
+id: user.user.field_establishments_number
+field_name: field_establishments_number
+entity_type: user
+bundle: user
+label: 'Nombre d''établissements'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

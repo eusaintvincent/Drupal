@@ -1,0 +1,21 @@
+uuid: 87f8fc5f-4a2e-4a2e-9e56-03074dd4b36a
+langcode: fr
+status: true
+dependencies:
+  config:
+    - contact.form.feedback
+    - field.storage.contact_message.field_civility
+  module:
+    - options
+id: contact_message.feedback.field_civility
+field_name: field_civility
+entity_type: contact_message
+bundle: feedback
+label: Civilité
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

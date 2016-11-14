@@ -1,0 +1,88 @@
+uuid: 8b9140e6-4df9-4ec0-92a5-186980945a87
+langcode: fr
+status: true
+dependencies:
+  config:
+    - core.entity_form_mode.user.register
+    - field.field.user.user.field_activity_sector
+    - field.field.user.user.field_birthday
+    - field.field.user.user.field_cgu
+    - field.field.user.user.field_civility
+    - field.field.user.user.field_company
+    - field.field.user.user.field_company_type
+    - field.field.user.user.field_establishments_number
+    - field.field.user.user.field_first_name
+    - field.field.user.user.field_job
+    - field.field.user.user.field_job_address
+    - field.field.user.user.field_last_name
+    - field.field.user.user.field_mobile_phone
+    - field.field.user.user.field_postal_code
+    - field.field.user.user.field_professional_phone
+    - field.field.user.user.field_professional_situation
+    - field.field.user.user.field_staff
+    - field.field.user.user.field_turnover
+  module:
+    - datetime
+    - user
+_core:
+  default_config_hash: LLAieeozVsoZDb-2PbFxRJpQqnKmpR7-4OoRJnduz-U
+id: user.user.register
+targetEntityType: user
+bundle: user
+mode: register
+content:
+  account:
+    weight: 4
+    settings: {  }
+    third_party_settings: {  }
+  field_birthday:
+    type: datetime_datelist
+    weight: 3
+    settings:
+      date_order: DMY
+      time_type: none
+      increment: 15
+    third_party_settings: {  }
+  field_cgu:
+    type: boolean_checkbox
+    weight: 5
+    settings:
+      display_label: false
+    third_party_settings: {  }
+  field_civility:
+    type: options_buttons
+    weight: 0
+    settings: {  }
+    third_party_settings: {  }
+  field_first_name:
+    type: string_textfield
+    weight: 1
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_last_name:
+    type: string_textfield
+    weight: 2
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  contact: true
+  field_activity_sector: true
+  field_company: true
+  field_company_type: true
+  field_establishments_number: true
+  field_job: true
+  field_job_address: true
+  field_mobile_phone: true
+  field_postal_code: true
+  field_professional_phone: true
+  field_professional_situation: true
+  field_staff: true
+  field_turnover: true
+  langcode: true
+  language: true
+  timezone: true
+  translation: true

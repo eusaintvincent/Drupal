@@ -1,0 +1,27 @@
+uuid: 9bc28371-7918-4af2-8ff8-71396808f7fb
+langcode: fr
+status: true
+dependencies:
+  module:
+    - options
+    - user
+id: user.field_company_type
+field_name: field_company_type
+entity_type: user
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: 'Société indépendante'
+      label: 'Société indépendante'
+    -
+      value: Association
+      label: Association
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,21 @@
+uuid: 2ec0f23f-fbac-46bf-b65d-f3e3fc08d85d
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_civility
+  module:
+    - options
+    - user
+id: user.user.field_civility
+field_name: field_civility
+entity_type: user
+bundle: user
+label: Civilité
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

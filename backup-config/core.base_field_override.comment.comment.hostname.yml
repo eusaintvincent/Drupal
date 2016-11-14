@@ -1,0 +1,18 @@
+uuid: 63eaa5cc-9585-452b-b13e-125a56d2cbc6
+langcode: fr
+status: true
+dependencies:
+  config:
+    - comment.type.comment
+id: comment.comment.hostname
+field_name: hostname
+entity_type: comment
+bundle: comment
+label: 'Nom d''hôte'
+description: 'Le nom de domaine de l''auteur du commentaire.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

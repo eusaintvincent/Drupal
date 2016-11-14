@@ -1,0 +1,25 @@
+uuid: 8840b32b-6f3b-4d34-8420-51721821d3c9
+langcode: fr
+status: false
+dependencies:
+  module:
+    - system
+  theme:
+    - livresblancs
+_core:
+  default_config_hash: NDwadleLD3YVSbDUaakxyYZyINYtkFtOVGShfq4kWy8
+id: livresblancs_branding
+theme: livresblancs
+region: '-1'
+weight: -6
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  provider: system
+  label_display: '0'
+  use_site_logo: true
+  use_site_name: false
+  use_site_slogan: false
+visibility: {  }

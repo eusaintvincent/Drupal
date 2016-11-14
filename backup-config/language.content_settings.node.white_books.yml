@@ -1,0 +1,16 @@
+uuid: d4f7df1a-e102-44a2-a9e6-6cd2f525603f
+langcode: fr
+status: true
+dependencies:
+  config:
+    - node.type.white_books
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: true
+id: node.white_books
+target_entity_type_id: node
+target_bundle: white_books
+default_langcode: site_default
+language_alterable: false
