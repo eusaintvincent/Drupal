@@ -1,0 +1,22 @@
+uuid: f7f4388e-d85b-40fa-bc49-20ac244c0dd5
+langcode: fr
+status: true
+dependencies:
+  theme:
+    - livresblancs
+_core:
+  default_config_hash: X9I1OB0W3WlWtrK-CNcg6hNWwa8wficanpH8pYnDZDE
+id: livresblancs_local_tasks
+theme: livresblancs
+region: content
+weight: -7
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  provider: core
+  label_display: '0'
+  primary: true
+  secondary: true
+visibility: {  }

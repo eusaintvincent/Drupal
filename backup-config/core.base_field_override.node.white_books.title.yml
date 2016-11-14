@@ -1,0 +1,18 @@
+uuid: d1083b88-7e81-4eb7-a6a5-2816404995b5
+langcode: fr
+status: true
+dependencies:
+  config:
+    - node.type.white_books
+id: node.white_books.title
+field_name: title
+entity_type: node
+bundle: white_books
+label: Titre
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

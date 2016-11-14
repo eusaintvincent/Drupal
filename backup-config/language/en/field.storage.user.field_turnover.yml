@@ -1,0 +1,8 @@
+settings:
+  allowed_values:
+    -
+      label: 'Less than 0.5 M€'
+    -
+      label: 'Between 0.5 and 2 M€'
+    -
+      label: 'More than 2 M€'

@@ -1,0 +1,42 @@
+uuid: 393ef7a2-d6db-4dc0-ae50-f039aca5f12a
+langcode: fr
+status: true
+dependencies:
+  module:
+    - contact
+    - options
+id: contact_message.field_service_to_contact
+field_name: field_service_to_contact
+entity_type: contact_message
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: 'Cliquez ici'
+      label: 'Cliquez ici'
+    -
+      value: 'Service commercial'
+      label: 'Service commercial'
+    -
+      value: 'Service administratif/facturation'
+      label: 'Service administratif/facturation'
+    -
+      value: 'Service communication'
+      label: 'Service communication'
+    -
+      value: 'Service assistance clients'
+      label: 'Service assistance clients'
+    -
+      value: 'Service RH/candidatures'
+      label: 'Service RH/candidatures'
+    -
+      value: 'Autre besoin'
+      label: 'Autre besoin'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

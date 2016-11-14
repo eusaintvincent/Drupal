@@ -1,0 +1,18 @@
+uuid: 05893f13-b7c5-4b34-b049-9bf18f82b8cd
+langcode: fr
+status: true
+dependencies:
+  module:
+    - menu_link_content
+id: menu_link_content.menu_link_content.title
+field_name: title
+entity_type: menu_link_content
+bundle: menu_link_content
+label: 'Titre du lien dans le menu'
+description: 'Le texte à utiliser pour ce lien dans le menu.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

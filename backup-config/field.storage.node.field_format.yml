@@ -1,0 +1,33 @@
+uuid: 97a65049-a09c-454c-a5cf-e6064369ac0f
+langcode: fr
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_format
+field_name: field_format
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: '1'
+      label: 'A4 portrait'
+    -
+      value: '2'
+      label: 'A4 paysage'
+    -
+      value: '3'
+      label: 'A5 portrait'
+    -
+      value: '4'
+      label: 'A5 paysage'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

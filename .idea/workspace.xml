@@ -1,0 +1,1682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30582292-c9b6-40f7-8231-cb83900cfe7e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/css/fonts/imce-icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/css/fonts/imce-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/css/fonts/imce-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/css/images/browse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/css/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/plugins/ckeditor/icons/imceimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/plugins/ckeditor/icons/imcelink.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/images/icon/icon-apps-active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/images/icon/icon-apps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/images/icon/icon-panopoly-active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/images/icon/icon-panopoly.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/images/throbber.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/adminimal_admin_toolbar.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/adminimal_admin_toolbar.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/adminimal_admin_toolbar.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/css/adminimal_admin_toolbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/0074bd/chevron-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/787878/chevron-outline-disc-close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/787878/chevron-outline-disc-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/787878/drupal-8.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffcfcf/chevron-outline-disc-close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/barchart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/chevron-disc-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/chevron-outline-disc-close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/chevron-outline-disc-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/chevron-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/drupal-8.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/file.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/orgchart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/paintbrush.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/pencil.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/people.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/puzzlepiece.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/questionmark-disc.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/adminimal_admin_toolbar/images/ffffff/wrench.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/config/install/devel.settings.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/config/install/system.menu.devel.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/config/schema/devel.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/css/devel-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/css/devel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel.links.menu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel.links.task.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel.permissions.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel.rules.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel.services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/devel_generate.batch.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/devel_generate.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/devel_generate.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/devel_generate.permissions.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/devel_generate.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/devel_generate.services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/drush/DevelGenerateUnishTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/drush/devel_generate.drush.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/Annotation/DevelGenerate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/DevelGenerateBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/DevelGenerateBaseInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/DevelGenerateException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/DevelGeneratePermissions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/DevelGeneratePluginManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/Form/DevelGenerateForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/Plugin/DevelGenerate/ContentDevelGenerate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/Plugin/DevelGenerate/MenuDevelGenerate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/Plugin/DevelGenerate/TermDevelGenerate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/Plugin/DevelGenerate/UserDevelGenerate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/Plugin/DevelGenerate/VocabularyDevelGenerate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/Routing/DevelGenerateRoutes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/src/Tests/DevelGenerateTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/tests/modules/devel_generate_example/devel_generate_example.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/tests/modules/devel_generate_example/devel_generate_example.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/tests/modules/devel_generate_example/src/Plugin/DevelGenerate/ExampleDevelGenerate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_generate/tests/src/DevelGenerateManagerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_node_access/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_node_access/config/install/devel_node_access.settings.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_node_access/config/schema/devel_node_access.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_node_access/css/devel_node_access.module.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_node_access/devel_node_access.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_node_access/devel_node_access.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_node_access/devel_node_access.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_node_access/devel_node_access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_node_access/devel_node_access.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_node_access/devel_node_access.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_node_access/devel_node_access.permissions.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_node_access/src/Form/DnaForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/devel_node_access/src/Plugin/Block/DnaBlock.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/drush/devel.drush.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/drush/develDrushTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/drush/phpstorm.drush.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint.permissions.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint.services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/Kint.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/LICENCE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/config.default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/decorators/plain.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/decorators/rich.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/examples/overview.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/inc/kintObject.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/inc/kintParser.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/inc/kintVariableData.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/parsers/custom/classmethods.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/parsers/custom/classstatics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/parsers/custom/color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/parsers/custom/fspath.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/parsers/custom/json.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/parsers/custom/microtime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/parsers/custom/objectiterateable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/parsers/custom/splobjectstorage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/parsers/custom/timestamp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/parsers/custom/xml.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/parsers/objects/closure.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/parsers/objects/smarty.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/parsers/objects/splfileinfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/view/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/view/base.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/view/compiled/aante-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/view/compiled/kint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/view/compiled/original.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/view/compiled/solarized-dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/view/compiled/solarized.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/view/themes/aante-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/view/themes/original.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/view/themes/solarized-dark.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/kint/view/themes/solarized.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/src/Plugin/Devel/Dumper/Kint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/kint/src/Twig/KintExtension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/run-tests-drush.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Annotation/DevelDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Controller/DevelController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Controller/SwitchUserController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/DevelDumperBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/DevelDumperInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/DevelDumperManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/DevelDumperManagerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/DevelDumperPluginManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/DevelDumperPluginManagerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/EventSubscriber/DevelEventSubscriber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Form/ConfigEditor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Form/ConfigsList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Form/DevelRebuildMenus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Form/DevelReinstall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Form/ExecutePHP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Form/SettingsForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Form/SwitchUserForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Form/SystemStateEdit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Plugin/Block/DevelExecutePHP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Plugin/Block/SwitchUserBlock.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Plugin/Derivative/DevelLocalTask.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Plugin/Devel/Dumper/ChromePhp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Plugin/Devel/Dumper/DoctrineDebug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Plugin/Devel/Dumper/DrupalVariable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Plugin/Devel/Dumper/FirePhp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Plugin/Mail/DevelMailLog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Plugin/Menu/DestinationMenuLink.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Plugin/Menu/MenuItemMenuLink.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Routing/RouteSubscriber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Tests/DevelControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Tests/DevelDumperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Tests/DevelMailTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Tests/DevelMenuLinksTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Tests/DevelRebuildMenusTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Tests/DevelReinstallTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Tests/DevelStateEditorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Tests/DevelSwitchUserTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/src/Twig/Extension/Debug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_dumper_test/css/devel_dumper_test.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_dumper_test/devel_dumper_test.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_dumper_test/devel_dumper_test.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_dumper_test/devel_dumper_test.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_dumper_test/js/devel_dumper_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_dumper_test/src/Controller/DumperTestController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_dumper_test/src/Plugin/Devel/Dumper/AvailableTestDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_dumper_test/src/Plugin/Devel/Dumper/NotAvailableTestDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_entity_test/devel_entity_test.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_entity_test/devel_entity_test.links.task.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_entity_test/devel_entity_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_entity_test/src/Entity/DevelEntityTestCanonical.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_entity_test/src/Entity/DevelEntityTestEdit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_entity_test/src/Entity/DevelEntityTestNoLinks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_entity_test/src/Plugin/Derivative/DevelEntityTestLocalTasks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_test/devel_test.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_test/devel_test.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/modules/devel_test/src/Controller/DevelTestController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/src/Kernel/DevelDumperTestTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/tests/src/Kernel/DevelTwigExtensionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/config/install/webprofiler.config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/config/schema/webprofiler.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/config/translations/console.en.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/config/translations/console.es.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/css/app/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/css/timeline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/images/caret-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/js/app/collections/collectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/js/app/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/js/app/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/js/app/models/collector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/js/app/routers/collectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/js/app/views/collector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/js/app/views/collectorsList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/js/app/views/details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/js/app/views/layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/js/database.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/js/timeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Access/AccessManagerWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Asset/CssCollectionRendererWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Asset/JsCollectionRendererWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Cache/CacheBackendWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Cache/CacheFactoryWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Command/BenchmarkCommand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Command/BenchmarkData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Command/ExportCommand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Command/ListCommand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Compiler/DecoratorPass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Compiler/EventPass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Compiler/ProfilerPass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Compiler/ServicePass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Compiler/StoragePass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Config/ConfigFactoryWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Controller/DashboardController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Controller/DatabaseController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Controller/ToolbarController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/AssetsDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/BlocksDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/CacheDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/ConfigDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/DatabaseDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/DevelDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/DrupalDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/DrupalDataCollectorTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/EventsDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/ExtensionDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/FormsDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/HttpDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/MailDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/PerformanceTimingDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/PhpConfigDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/RequestDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/RoutingDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/ServicesDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/StateDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/ThemeDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/TimeDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/TranslationsDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/UserDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DataCollector/ViewsDataCollector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Decorator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DependencyInjection/TraceableContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/DrupalDataCollectorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Entity/Decorators/Config/ConfigEntityStorageDecorator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Entity/Decorators/Config/RoleStorageDecorator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Entity/Decorators/Config/ShortcutSetStorageDecorator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Entity/Decorators/Config/VocabularyStorageDecorator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Entity/EntityDecorator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Entity/EntityManagerWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Entity/EntityViewBuilderDecorator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/EventSubscriber/WebprofilerEventSubscriber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Form/ConfigForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Form/FormBuilderWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Form/ProfilesFilterForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Frontend/PerformanceTimingData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Helper/ClassShortener.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Helper/ClassShortenerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Helper/IdeLinkGenerator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Helper/IdeLinkGeneratorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Http/HttpClientMiddleware.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Mail/MailManagerWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Profiler/DatabaseProfilerStorage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Profiler/FileProfilerStorage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Profiler/Profiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Profiler/ProfilerStorageFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Profiler/ProfilerStorageManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Profiler/TemplateManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/RequestMatcher/WebprofilerRequestMatcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Routing/TokenConverter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/StackMiddleware/WebprofilerMiddleware.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/State/StateWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Stopwatch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/StringTranslation/TranslationManagerWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Theme/ThemeNegotiatorWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/TraceableEventDispatcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Twig/Dumper/HtmlDumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Twig/Extension/ProfilerExtension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Views/TraceableViewExecutable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/Views/ViewExecutableFactoryWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/src/WebprofilerServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/assets.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/blocks.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/cache.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/config.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/database.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/devel.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/drupal.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/events.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/extensions.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/forms.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/http.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/mail.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/performance_timing.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/php_config.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/request.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/routing.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/services.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/state.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/theme.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/time.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/translations.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/user.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Collector/views.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Profiler/webprofiler_dashboard.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Profiler/webprofiler_loader.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Profiler/webprofiler_panel.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Profiler/webprofiler_toolbar.css.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/templates/Profiler/webprofiler_toolbar.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/tests/src/Unit/Cache/CacheDataCollectorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/webprofiler.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/webprofiler.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/webprofiler.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/webprofiler.links.menu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/webprofiler.links.task.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/webprofiler.make.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/webprofiler.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/webprofiler.permissions.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/webprofiler.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/devel/webprofiler/webprofiler.services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/config/schema/field_group.entity_display.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/config/schema/field_group.field_group_formatter_plugin.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/contrib/field_group_migrate/field_group_migrate.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/contrib/field_group_migrate/migration_templates/d6_field_group_entity_form_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/contrib/field_group_migrate/migration_templates/d6_field_group_entity_view_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/contrib/field_group_migrate/src/Plugin/migrate/destination/FieldGroupEntityFormDisplay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/contrib/field_group_migrate/src/Plugin/migrate/destination/FieldGroupEntityViewDisplay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/contrib/field_group_migrate/src/Plugin/migrate/source/d6/FieldGroup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/css/field_group.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/css/field_group.field_ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/field_group.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/field_group.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/field_group.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/field_group.services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/formatters/accordion/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/formatters/horizontal_tabs/horizontal-tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/formatters/horizontal_tabs/horizontal-tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/formatters/html_element/html-element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/formatters/vertical_tabs/vertical-tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/includes/field_ui.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/includes/helpers.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/js/field_group.field_ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/js/field_group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Annotation/FieldGroupFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Element/Accordion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Element/AccordionItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Element/HorizontalTabs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Element/HtmlElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/FieldGroupFormatterBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/FieldGroupFormatterInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/FieldGroupFormatterPluginManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Form/FieldGroupDeleteForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Plugin/field_group/FieldGroupFormatter/Accordion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Plugin/field_group/FieldGroupFormatter/AccordionItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Plugin/field_group/FieldGroupFormatter/Details.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Plugin/field_group/FieldGroupFormatter/Fieldset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Plugin/field_group/FieldGroupFormatter/HtmlElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Plugin/field_group/FieldGroupFormatter/Tab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Plugin/field_group/FieldGroupFormatter/Tabs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Routing/FieldGroupConverter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Routing/RouteSubscriber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Tests/EntityDisplayTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Tests/FieldGroupTestTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/src/Tests/ManageDisplayTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/templates/field-group-accordion-item.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/templates/field-group-accordion.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/templates/field-group-html-element.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/templates/horizontal-tabs.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/templates/theme.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/tests/modules/field_group_test/field_group_test.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/field_group/tests/modules/field_group_test/field_group_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/config/install/imce.profile.admin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/config/install/imce.profile.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/config/install/imce.settings.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/config/schema/imce.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/css/fonts/imce-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/css/imce.admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/css/imce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/css/imce.filefield.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/css/imce.icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/css/imce.input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/imce.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/imce.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/imce.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/imce.links.action.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/imce.links.menu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/imce.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/imce.permissions.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/imce.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/imce.services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/imce.File.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/imce.Folder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/imce.Item.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/imce.Tbb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/imce.filefield.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/imce.input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/imce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/plugins/bueditor/imce.bueditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/plugins/ckeditor/imce.ckeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/plugins/imce/imce.UploadQueue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/plugins/imce/imce.delete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/plugins/imce/imce.newfolder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/plugins/imce/imce.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/js/plugins/imce/imce.upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Annotation/ImcePlugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Controller/ImceController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Entity/ImceProfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Form/ImceProfileDeleteForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Form/ImceProfileForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Form/ImceSettingsForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Imce.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/ImceFM.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/ImceFile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/ImceFileField.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/ImceFolder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/ImceItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/ImcePluginBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/ImcePluginInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/ImcePluginManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/ImceProfileListBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Plugin/BUEditorPlugin/Imce.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Plugin/CKEditorPlugin/Imce.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Plugin/ImcePlugin/Core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Plugin/ImcePlugin/Delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Plugin/ImcePlugin/Newfolder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Plugin/ImcePlugin/Resize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/imce/src/Plugin/ImcePlugin/Upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu_breadcrumb/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu_breadcrumb/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu_breadcrumb/config/install/menu_breadcrumb.settings.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu_breadcrumb/menu_breadcrumb.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu_breadcrumb/menu_breadcrumb.links.menu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu_breadcrumb/menu_breadcrumb.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu_breadcrumb/menu_breadcrumb.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu_breadcrumb/menu_breadcrumb.services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu_breadcrumb/src/Form/SettingsForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/menu_breadcrumb/src/MenuBasedBreadcrumbBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/CHANGELOG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/CODE_OF_CONDUCT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/config/install/metatag.metatag_defaults.403.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/config/install/metatag.metatag_defaults.404.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/config/install/metatag.metatag_defaults.front.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/config/install/metatag.metatag_defaults.global.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/config/install/metatag.metatag_defaults.node.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/config/install/metatag.metatag_defaults.taxonomy_term.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/config/install/metatag.metatag_defaults.user.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/config/schema/metatag.metatag_defaults.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/config/schema/metatag.metatag_tag.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/config/schema/metatag.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/console/translations/en/generate.metatag.group.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/console/translations/en/generate.metatag.tag.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag.links.action.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag.links.menu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag.permissions.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag.services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_google_plus/config/schema/metatag_google_plus.metatag_tag.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_google_plus/metatag_google_plus.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_google_plus/src/Plugin/metatag/Group/GooglePlus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_google_plus/src/Plugin/metatag/Tag/Description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_google_plus/src/Plugin/metatag/Tag/Image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_google_plus/src/Plugin/metatag/Tag/Name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_google_plus/src/Plugin/metatag/Tag/Publisher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_google_plus/src/Tests/MetatagGooglePlusTagsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/config/schema/metatag_open_graph.metatag_tag.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/metatag_open_graph.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/metatag_open_graph.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Group/OpenGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/ArticleAuthor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/ArticleExpirationTime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/ArticleModifiedTime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/ArticlePublishedTime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/ArticlePublisher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/ArticleSection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/ArticleTags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgCountryName.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgDescription.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgDeterminer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgEmail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgFaxNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgImageHeight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgImageSecureUrl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgImageType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgImageUrl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgImageWidth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgLatitude.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgLocale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgLocaleAlternative.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgLocality.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgLongitude.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgPhoneNumber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgPostalCode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgRegion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgSeeAlso.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgSiteName.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgStreetAddress.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgTitle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgUpdatedTime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Plugin/metatag/Tag/OgUrl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_open_graph/src/Tests/MetatagOpenGraphTagsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/config/schema/metatag_twitter_cards.metatag_tag.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/metatag_twitter_cards.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Group/TwitterCards.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppIdGooglePlay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppIdIpad.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppIdIphone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppNameGooglePlay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppNameIpad.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppNameIphone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppStoreCountry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppUrlGooglePlay.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppUrlIpad.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsAppUrlIphone.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsCreator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsCreatorId.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsData1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsData2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsDescription.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsGalleryImage0.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsGalleryImage1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsGalleryImage2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsGalleryImage3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsImageAlt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsImageHeight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsImageWidth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsLabel1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsLabel2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsPageUrl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsPlayer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsPlayerHeight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsPlayerStream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsPlayerStreamContentType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsPlayerWidth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsSite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsSiteId.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsTitle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Plugin/metatag/Tag/TwitterCardsType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_twitter_cards/src/Tests/MetatagTwitterCardsTagsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_verification/config/schema/metatag_verification.metatag_tag.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_verification/metatag_verification.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_verification/src/Plugin/metatag/Group/SiteVerification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_verification/src/Plugin/metatag/Tag/Baidu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_verification/src/Plugin/metatag/Tag/Bing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_verification/src/Plugin/metatag/Tag/Google.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_verification/src/Plugin/metatag/Tag/NortonSafeWeb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_verification/src/Plugin/metatag/Tag/Pinterest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_verification/src/Plugin/metatag/Tag/Yandex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/metatag_verification/src/Tests/MetatagVerificationTagsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Annotation/MetatagGroup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Annotation/MetatagTag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Command/GenerateGroupCommand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Command/GenerateTagCommand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Entity/MetatagDefaults.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Form/MetatagDefaultsDeleteForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Form/MetatagDefaultsForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Form/MetatagDefaultsRevertForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Generator/MetatagGroupGenerator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Generator/MetatagTagGenerator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/MetatagDefaultsInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/MetatagDefaultsListBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/MetatagGroupPluginManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/MetatagManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/MetatagManagerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/MetatagTagPluginManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/MetatagToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/Field/FieldFormatter/MetatagEmptyFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/Field/FieldType/MetatagFieldItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/Field/FieldWidget/MetatagFirehose.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Group/Advanced.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Group/AppLinks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Group/Basic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Group/DublinCoreAdvanced.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Group/DublinCoreBasic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Group/Facebook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Group/GooglePlus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Group/GroupBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Group/SiteValidation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Group/TwitterCards.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/AbstractTag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/Author.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/CanonicalUrl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/ContentLanguage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/Description.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/FbAdmins.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/FbAppId.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/Generator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/GeoPlacename.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/GeoPosition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/GeoRegion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/Icbm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/ImageSrc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/Keywords.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/LinkRelBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/MetaHttpEquivBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/MetaItempropBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/MetaNameBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/MetaPropertyBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/NewsKeywords.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/OriginalSource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/Referrer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/Rights.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/Robots.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/ShortLink.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/Standout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Plugin/metatag/Tag/Title.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Tests/MetatagAdminTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Tests/MetatagConfigTranslationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Tests/MetatagFieldTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Tests/MetatagForumTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Tests/MetatagFrontpageTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Tests/MetatagNodeTranslationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Tests/MetatagTagsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/src/Tests/MetatagTagsTestBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/templates/generator.php.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/templates/group.php.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/templates/metatag_tag.schema.yml.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/templates/tag.php.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/tests/modules/metatag_test_custom_route/metatag_test_custom_route.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/tests/modules/metatag_test_custom_route/metatag_test_custom_route.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/tests/modules/metatag_test_custom_route/metatag_test_custom_route.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/tests/modules/metatag_test_custom_route/src/Controller/MetatagTestCustomRouteController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/tests/modules/metatag_test_tag/metatag_test_tag.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/tests/modules/metatag_test_tag/metatag_test_tag.metatag_tag.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/tests/modules/metatag_test_tag/metatag_test_tag.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/metatag/tests/modules/metatag_test_tag/src/Plugin/metatag/Tag/MetatagTestTag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/config/install/pathauto.settings.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/config/optional/system.action.pathauto_update_alias_node.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/config/optional/system.action.pathauto_update_alias_user.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/config/schema/pathauto.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/config/schema/pathauto_pattern.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/pathauto.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/pathauto.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/pathauto.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/pathauto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/pathauto.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/pathauto.links.action.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/pathauto.links.task.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/pathauto.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/pathauto.permissions.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/pathauto.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/pathauto.services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/pathauto.tokens.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/AliasCleaner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/AliasCleanerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/AliasStorageHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/AliasStorageHelperInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/AliasTypeBatchUpdateInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/AliasTypeInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/AliasTypeManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/AliasUniquifier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/AliasUniquifierInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Annotation/AliasType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Entity/PathautoPattern.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Form/PathautoAdminDelete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Form/PathautoBulkUpdateForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Form/PathautoSettingsForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Form/PatternDisableForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Form/PatternEditForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Form/PatternEnableForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/MessengerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/PathautoGenerator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/PathautoGeneratorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/PathautoItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/PathautoPatternInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/PathautoPatternListBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/PathautoState.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/PathautoWidget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Plugin/Action/UpdateAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Plugin/Deriver/EntityAliasTypeDeriver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Plugin/pathauto/AliasType/Broken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Plugin/pathauto/AliasType/EntityAliasTypeBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Plugin/pathauto/AliasType/ForumAliasType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Tests/PathautoBulkUpdateTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Tests/PathautoEnablingEntityTypesTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Tests/PathautoLocaleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Tests/PathautoMassDeleteTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Tests/PathautoNodeWebTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Tests/PathautoSettingsFormWebTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Tests/PathautoTaxonomyWebTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Tests/PathautoTestHelperTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Tests/PathautoUiTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/Tests/PathautoUserWebTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/src/VerboseMessenger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/tests/modules/pathauto_views_test/config/install/views.view.articles.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/tests/modules/pathauto_views_test/pathauto_views_test.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/tests/src/Kernel/PathautoKernelTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/tests/src/Kernel/PathautoTokenTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/pathauto/tests/src/Unit/VerboseMessengerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/css/jquery.treetable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/css/token.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/css/token.treetable.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/js/jquery.treetable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/js/token.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Controller/TokenAutocompleteController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Controller/TokenCacheController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Controller/TokenDevelController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Controller/TokenTreeController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Element/TokenTreeTable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Plugin/Derivative/DevelLocalTask.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Routing/RouteSubscriber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Tests/TokenBlockTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Tests/TokenCurrentPageTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Tests/TokenFieldUiTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Tests/TokenMenuTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Tests/TokenTestBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Tests/TokenTestTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Tests/TokenURLTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Tests/TokenUserTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Tests/Tree/AutocompleteTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Tests/Tree/HelpPageTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Tests/Tree/TokenTreeTestTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Tests/Tree/TreeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/Token.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/TokenEntityMapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/TokenEntityMapperInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/TokenInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/TokenServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/TreeBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/src/TreeBuilderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/templates/token-tree-link.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/modules/token_module_test/config/install/core.date_format.token_module_test.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/modules/token_module_test/src/Controller/TokenTreeBrowseController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/modules/token_module_test/token_module_test.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/modules/token_module_test/token_module_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/modules/token_module_test/token_module_test.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/modules/token_module_test/token_module_test.tokens.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/modules/token_user_picture/config/install/core.entity_form_display.user.user.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/modules/token_user_picture/config/install/field.field.user.user.user_picture.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/modules/token_user_picture/config/install/field.storage.user.user_picture.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/modules/token_user_picture/token_user_picture.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/src/Kernel/ArrayTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/src/Kernel/CommentTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/src/Kernel/DateTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/src/Kernel/EntityTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/src/Kernel/FieldTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/src/Kernel/FileTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/src/Kernel/KernelTestBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/src/Kernel/NodeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/src/Kernel/RandomTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/src/Kernel/TaxonomyTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/tests/src/Kernel/UnitTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/token.drush.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/token.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/token.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/token.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/token.links.task.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/token.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/token.pages.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/token.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/token.services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/token/token.tokens.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/adminimal_theme.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/adminimal_theme.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/adminimal_theme.theme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/config/install/block.block.adminimal_theme_breadcrumbs.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/config/install/block.block.adminimal_theme_content.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/config/install/block.block.adminimal_theme_help.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/config/install/block.block.adminimal_theme_local_actions.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/config/install/block.block.adminimal_theme_login.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/config/install/block.block.adminimal_theme_messages.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/config/install/block.block.adminimal_theme_page_title.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/config/install/block.block.adminimal_theme_primary_local_tasks.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/config/install/block.block.adminimal_theme_secondary_local_tasks.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/css/adminimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/images/caret-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/images/chevron-disc-down-hover.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/images/chevron-disc-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/adminimal_theme/images/chevron-disc-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_breadcrumb.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/block/block--allrightsreserved.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/block/block--description.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/block/block--socialfooterlinks.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/block/block--system-menu-block--footer.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/menu/menu--account.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/menu/menu--footer.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/menu/menu--main.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/menu/menu.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/node/node.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/page/page.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/system/html.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/system/region--footer.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/CHANGELOG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/assets/js/radix.script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/includes/block.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/includes/comment.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/includes/field.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/includes/form.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/includes/menu.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/includes/view.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/fonts/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/images/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/js/default.script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/base/_helpers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/base/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/base/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/base/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/bootswatch/_bootswatch.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/bootswatch/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/components/_block.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/components/_comment.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/components/_form.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/components/_menu.main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/components/_node.article.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/components/_node.page.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/components/_view.frontpage.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/default.style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/assets/scss/layout/_page.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/default.breakpoints.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/default.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/default.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/default.theme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/includes/block.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/includes/comment.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/includes/field.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/includes/form.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/includes/menu.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/includes/nav.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/includes/node.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/includes/structure.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/includes/theme.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/includes/user.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/includes/view.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/templates/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/templates/block/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/templates/comment/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/templates/field/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/templates/menu/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/templates/node/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/templates/page/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/templates/system/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/templates/user/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/kits/default/templates/view/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/radix.drush.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/radix.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/radix.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/radix.theme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/scss/_radix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/scss/radix/_admin.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/scss/radix/_comment.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/scss/radix/_form.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/scss/radix/_layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/scss/radix/_maintenance.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/scss/radix/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/scss/radix/_modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/scss/radix/_nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/scss/radix/_node.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/scss/radix/_panel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/scss/radix/_structure.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/scss/radix/_view.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/block/block--block-content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/block/block--local-actions-block.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/block/block--search-form-block.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/block/block--system-branding-block.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/block/block--system-main-block.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/block/block--system-menu-block.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/block/block.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/content/page-title.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/field/field-no-wrapper.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/field/field.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/form/datetime-form.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/form/details.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/form/dropbutton-wrapper.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/form/fieldset.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/form/form-element-label.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/form/form-element.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/form/input.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/form/select.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/form/textarea.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/menu/menu--admin.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/menu/menu--main.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/menu/menu-local-action.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/menu/menu.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/node/node-add-list.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/node/node.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/page/page.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/system/admin-block-content.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/system/admin-block.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/system/admin-page.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/system/breadcrumb.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/system/feed-icon.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/system/html.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/system/links--dropbutton.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/system/region.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/system/status-messages.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/system/table.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/view/views-view-table.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/view/views-view-unformatted.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/radix/templates/view/views-view.html.twig" />
+    </list>
+    <ignored path="LivresBlancs.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="LivresBlancs" />
+    <favorites_list name="gulp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="378">
+                <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sites/default/services.yml" />
+        <option value="$PROJECT_DIR$/themes/bootstrap/logo.svg" />
+        <option value="$PROJECT_DIR$/themes/bootstrap/templates/menu/menu.html.twig" />
+        <option value="$PROJECT_DIR$/themes/bootstrap/templates/user/page--user--login.html.twig" />
+        <option value="$PROJECT_DIR$/themes/bootstrap/bootstrap.info.yml" />
+        <option value="$PROJECT_DIR$/themes/bootstrap/sass/style.scss" />
+        <option value="$PROJECT_DIR$/themes/bootstrap/sass/_global.scss" />
+        <option value="$PROJECT_DIR$/themes/bootstrap/bootstrap.libraries.yml" />
+        <option value="$PROJECT_DIR$/themes/d8bootstrap-subtheme/npm-debug.log" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/assets/scss/base/_variables.scss" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/config.json" />
+        <option value="$PROJECT_DIR$/themes/radix/templates/page/page.html.twig" />
+        <option value="$PROJECT_DIR$/sites/default/default.services.yml" />
+        <option value="$PROJECT_DIR$/sites/development.services.yml" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/livresblancs.info.yml" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/templates/menu/menu--account.html.twig" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/templates/menu/menu--main.html.twig" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_header.scss" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/livresblancs.theme" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_content.scss" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_breadcrumb.scss" />
+        <option value="$PROJECT_DIR$/themes/radix/templates/node/node.html.twig" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/templates/node/node.html.twig" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/templates/block/block--description.html.twig" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/templates/menu/menu--footer.html.twig" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/templates/page/page.html.twig" />
+        <option value="$PROJECT_DIR$/themes/radix/templates/menu/menu.html.twig" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/templates/block/block--allrightsreserved.html.twig" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/templates/block/block--system-menu-block--footer.html.twig" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/templates/block/block--socialfooterlinks.html.twig" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_menu.main.scss" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_global.scss" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/templates/system/html.html.twig" />
+        <option value="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_footer.scss" />
+        <option value="$PROJECT_DIR$/sites/default/settings.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/themes/livresblancs/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>css</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>images</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>fonts</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>watch</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="css" />
+              <dependency value="fonts" />
+              <dependency value="watch" />
+            </dependencies>
+            <task-name>serve</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>drush</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="serve" />
+            </dependencies>
+            <task-name>default</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+    <layout place="tools.popupGulp">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="57" />
+    <option name="y" value="24" />
+    <option name="width" value="1309" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LivresBlancs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LivresBlancs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LivresBlancs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.26546147" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Livres-Blancs" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/themes/livresblancs/node_modules/gulp" />
+    <property name="prop_add_unversioned_files" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules" />
+      <recent name="$PROJECT_DIR$/themes/livresblancs/assets/images" />
+      <recent name="$PROJECT_DIR$/themes/livresblancs/templates/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/livresblancs/templates/block" />
+      <recent name="$PROJECT_DIR$/themes/livresblancs/templates/menu" />
+      <recent name="$PROJECT_DIR$/themes/livresblancs/templates/system" />
+      <recent name="$PROJECT_DIR$/themes/livresblancs/templates/node" />
+      <recent name="$PROJECT_DIR$/themes/livresblancs/assets/scss/components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30582292-c9b6-40f7-8231-cb83900cfe7e" name="Default" comment="" />
+      <created>1476201893399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476201893399</updated>
+      <workItem from="1476201895681" duration="18416000" />
+      <workItem from="1476277860073" duration="7620000" />
+      <workItem from="1476346854111" duration="66000" />
+      <workItem from="1476346931516" duration="8613000" />
+      <workItem from="1476369304723" duration="11002000" />
+      <workItem from="1476427074790" duration="19153000" />
+      <workItem from="1476530624405" duration="4405000" />
+      <workItem from="1476614796119" duration="5755000" />
+      <workItem from="1476912620179" duration="8531000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="83561000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="57" y="24" width="1309" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991317" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25414366" sideWeight="0.49361023" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991317" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23283346" sideWeight="0.5063898" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/radix/templates/menu/menu--main.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix/templates/menu/menu-local-action.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/livresblancs.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/livresblancs.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/livresblancs.breakpoints.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/adminimal_admin_toolbar/css/adminimal_admin_toolbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/menu_per_user/src/Form/EditPath.php" />
+    <entry file="file://$PROJECT_DIR$/modules/easy_breadcrumb/src/Form/EasyBreadcrumbGeneralSettingsForm.php" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/livresblancs.theme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/menu_breadcrumb/src/Form/SettingsForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_content.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/templates/node/node.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix/templates/node/node.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="95" column="13" selection-start-line="87" selection-start-column="2" selection-end-line="95" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/templates/system/region--footer.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix/templates/block/block--block-content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-346">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix/templates/block/block--local-actions-block.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix/templates/block/block.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix/templates/block/block--system-menu-block.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/templates/page/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/templates/menu/menu--footer.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/templates/menu/menu--main.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="53" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/templates/menu/menu--account.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/radix/templates/menu/menu.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/templates/menu/menu.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/css/livresblancs.style.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/css/livresblancs.style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_block.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_breadcrumb.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_comment.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/metatag/src/Command/GenerateGroupCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup/dump.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/templates/block/block--allrightsreserved.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/templates/block/block--description.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/templates/block/block--system-menu-block--footer.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/templates/block/block--socialfooterlinks.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_menu.main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="67" column="33" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/bootswatch/_bootswatch.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/bootswatch/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/base/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/base/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/livresblancs.style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="74" column="13" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/base/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/templates/system/html.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore.swp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="757" column="27" selection-start-line="757" selection-start-column="17" selection-end-line="757" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/livresblancs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="378">
+            <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+uuid: 8b404371-ffd3-40b2-aee8-a25d02e47bf6
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_postal_code
+  module:
+    - user
+id: user.user.field_postal_code
+field_name: field_postal_code
+entity_type: user
+bundle: user
+label: 'Code postal'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: 0
+  max: 99999
+  prefix: ''
+  suffix: ''
+field_type: integer

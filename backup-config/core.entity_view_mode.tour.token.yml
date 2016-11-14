@@ -1,0 +1,10 @@
+uuid: d70e7122-7f78-44f6-833c-5accf1144fdd
+langcode: fr
+status: true
+dependencies:
+  module:
+    - tour
+id: tour.token
+label: 'Jeton (token)'
+targetEntityType: tour
+cache: true

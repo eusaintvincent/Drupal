@@ -1,0 +1,25 @@
+uuid: f4c66908-bc38-4663-b507-20dc775b5eeb
+langcode: fr
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:24da1269-fbfa-4599-9ec3-3e5b1ae2f391'
+  module:
+    - block_content
+  theme:
+    - livresblancs
+id: description
+theme: livresblancs
+region: footer
+weight: -9
+provider: null
+plugin: 'block_content:24da1269-fbfa-4599-9ec3-3e5b1ae2f391'
+settings:
+  id: 'block_content:24da1269-fbfa-4599-9ec3-3e5b1ae2f391'
+  label: Description
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

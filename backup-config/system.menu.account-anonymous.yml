@@ -1,0 +1,8 @@
+uuid: 34b1cf4d-2f66-4642-bc8c-3d701459e89a
+langcode: fr
+status: true
+dependencies: {  }
+id: account-anonymous
+label: account_anonymous
+description: ''
+locked: false

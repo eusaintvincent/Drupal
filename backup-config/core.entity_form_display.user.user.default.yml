@@ -1,0 +1,129 @@
+uuid: 2f40e477-fb98-4bc7-9b42-573d6e3e5875
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.field.user.user.field_activity_sector
+    - field.field.user.user.field_birthday
+    - field.field.user.user.field_cgu
+    - field.field.user.user.field_city
+    - field.field.user.user.field_civility
+    - field.field.user.user.field_company
+    - field.field.user.user.field_company_type
+    - field.field.user.user.field_establishments_number
+    - field.field.user.user.field_first_name
+    - field.field.user.user.field_job
+    - field.field.user.user.field_job_address
+    - field.field.user.user.field_last_name
+    - field.field.user.user.field_mobile_phone
+    - field.field.user.user.field_postal_code
+    - field.field.user.user.field_professional_phone
+    - field.field.user.user.field_professional_situation
+    - field.field.user.user.field_staff
+    - field.field.user.user.field_turnover
+  module:
+    - datetime
+    - telephone
+    - user
+_core:
+  default_config_hash: LLAieeozVsoZDb-2PbFxRJpQqnKmpR7-4OoRJnduz-U
+id: user.user.default
+targetEntityType: user
+bundle: user
+mode: default
+content:
+  account:
+    weight: 0
+    settings: {  }
+    third_party_settings: {  }
+  field_activity_sector:
+    weight: 6
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+  field_birthday:
+    weight: 1
+    settings: {  }
+    third_party_settings: {  }
+    type: datetime_default
+  field_city:
+    weight: 14
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+  field_company:
+    weight: 4
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+  field_company_type:
+    weight: 5
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+  field_establishments_number:
+    weight: 8
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+  field_job:
+    weight: 3
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+  field_job_address:
+    weight: 10
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+  field_mobile_phone:
+    weight: 13
+    settings:
+      placeholder: ''
+    third_party_settings: {  }
+    type: telephone_default
+  field_postal_code:
+    weight: 11
+    settings:
+      placeholder: ''
+    third_party_settings: {  }
+    type: number
+  field_professional_phone:
+    weight: 12
+    settings:
+      placeholder: ''
+    third_party_settings: {  }
+    type: telephone_default
+  field_professional_situation:
+    weight: 2
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+  field_staff:
+    weight: 7
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+  field_turnover:
+    weight: 9
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+hidden:
+  contact: true
+  field_cgu: true
+  field_civility: true
+  field_first_name: true
+  field_last_name: true
+  langcode: true
+  language: true
+  timezone: true
+  translation: true

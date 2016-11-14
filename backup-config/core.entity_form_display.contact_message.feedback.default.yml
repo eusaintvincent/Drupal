@@ -1,0 +1,94 @@
+uuid: 819fd295-9429-4f44-ad9f-2361fd254332
+langcode: fr
+status: true
+dependencies:
+  config:
+    - contact.form.feedback
+    - field.field.contact_message.feedback.field_city
+    - field.field.contact_message.feedback.field_civility
+    - field.field.contact_message.feedback.field_company
+    - field.field.contact_message.feedback.field_is_member
+    - field.field.contact_message.feedback.field_phone
+    - field.field.contact_message.feedback.field_postal_address
+    - field.field.contact_message.feedback.field_postal_code
+    - field.field.contact_message.feedback.field_service_to_contact
+    - field.field.contact_message.feedback.field_status
+  module:
+    - telephone
+id: contact_message.feedback.default
+targetEntityType: contact_message
+bundle: feedback
+mode: default
+content:
+  field_city:
+    weight: 7
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+  field_civility:
+    weight: 0
+    settings: {  }
+    third_party_settings: {  }
+    type: options_buttons
+  field_company:
+    weight: 4
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+  field_is_member:
+    weight: 1
+    settings: {  }
+    third_party_settings: {  }
+    type: options_buttons
+  field_phone:
+    weight: 8
+    settings:
+      placeholder: ''
+    third_party_settings: {  }
+    type: telephone_default
+  field_postal_address:
+    weight: 5
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+  field_postal_code:
+    weight: 13
+    settings:
+      placeholder: ''
+    third_party_settings: {  }
+    type: number
+  field_service_to_contact:
+    weight: 10
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+  field_status:
+    weight: 2
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+  mail:
+    weight: 9
+    settings: {  }
+    third_party_settings: {  }
+  message:
+    type: string_textarea
+    weight: 12
+    settings:
+      rows: 12
+      placeholder: ''
+    third_party_settings: {  }
+  name:
+    weight: 3
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  copy: true
+  langcode: true
+  subject: true

@@ -1,0 +1,27 @@
+uuid: a3b222f8-2b39-4332-b23d-3c92f4b5ef1b
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_file
+    - node.type.white_books
+  module:
+    - file
+id: node.white_books.field_file
+field_name: field_file
+entity_type: node
+bundle: white_books
+label: Fichier
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  file_directory: livresblancs/fichiers
+  file_extensions: pdf
+  max_filesize: '20 MB'
+  description_field: false
+  handler: 'default:file'
+  handler_settings: {  }
+field_type: file

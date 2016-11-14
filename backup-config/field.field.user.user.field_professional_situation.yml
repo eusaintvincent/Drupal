@@ -1,0 +1,21 @@
+uuid: 3367d863-36f5-45a2-b076-055362535fa5
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_professional_situation
+  module:
+    - options
+    - user
+id: user.user.field_professional_situation
+field_name: field_professional_situation
+entity_type: user
+bundle: user
+label: 'Situation professionnelle'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

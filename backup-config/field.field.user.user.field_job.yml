@@ -1,0 +1,20 @@
+uuid: 2ff607c0-de76-4187-8960-ce2dc952907d
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_job
+  module:
+    - user
+id: user.user.field_job
+field_name: field_job
+entity_type: user
+bundle: user
+label: Profession/métier
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

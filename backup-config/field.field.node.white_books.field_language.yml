@@ -1,0 +1,21 @@
+uuid: 3635ee32-2a79-496c-9654-8a615a032c57
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_language
+    - node.type.white_books
+  module:
+    - languagefield
+id: node.white_books.field_language
+field_name: field_language
+entity_type: node
+bundle: white_books
+label: Langue
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: language_field

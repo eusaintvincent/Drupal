@@ -1,0 +1,12 @@
+settings:
+  allowed_values:
+    -
+      label: 'Click here'
+    -
+      label: 'I have professional activity'
+    -
+      label: ' I have not professional activity'
+    -
+      label: 'I am a student / in formation'
+    -
+      label: ' I am in pension'

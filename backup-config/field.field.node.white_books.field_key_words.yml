@@ -1,0 +1,19 @@
+uuid: 035ababd-403e-4619-8de2-c4e63b21cb7f
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_key_words
+    - node.type.white_books
+id: node.white_books.field_key_words
+field_name: field_key_words
+entity_type: node
+bundle: white_books
+label: 'Mot clés/tags'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

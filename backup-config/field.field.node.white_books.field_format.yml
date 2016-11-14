@@ -1,0 +1,21 @@
+uuid: e8ef4071-e779-4386-8a66-8f8af1585e70
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_format
+    - node.type.white_books
+  module:
+    - options
+id: node.white_books.field_format
+field_name: field_format
+entity_type: node
+bundle: white_books
+label: Format
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

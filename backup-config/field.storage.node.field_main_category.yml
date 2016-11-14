@@ -1,0 +1,30 @@
+uuid: d0df4c41-8b72-455f-ae02-63e69f6d0776
+langcode: fr
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_main_category
+field_name: field_main_category
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: '1'
+      label: Informatique
+    -
+      value: '2'
+      label: Médecine
+    -
+      value: '3'
+      label: Restauration
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

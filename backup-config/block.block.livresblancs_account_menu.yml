@@ -1,0 +1,26 @@
+uuid: dcb55c5d-91d2-4f6c-8375-ddb80b499d1e
+langcode: fr
+status: false
+dependencies:
+  config:
+    - system.menu.account
+  module:
+    - system
+  theme:
+    - livresblancs
+_core:
+  default_config_hash: DweBpscQZdG0-fHkSpUzdYucrNH45G_KF7Z82V-oyQM
+id: livresblancs_account_menu
+theme: livresblancs
+region: '-1'
+weight: -5
+provider: null
+plugin: 'system_menu_block:account'
+settings:
+  id: 'system_menu_block:account'
+  label: 'User account menu'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 1
+visibility: {  }

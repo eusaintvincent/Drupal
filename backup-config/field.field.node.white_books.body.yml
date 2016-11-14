@@ -1,0 +1,22 @@
+uuid: e20328c4-7a9e-48e1-80d4-3caf425fac29
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.white_books
+  module:
+    - text
+id: node.white_books.body
+field_name: body
+entity_type: node
+bundle: white_books
+label: Description
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+field_type: text_with_summary

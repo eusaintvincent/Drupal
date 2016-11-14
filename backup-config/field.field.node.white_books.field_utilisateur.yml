@@ -1,0 +1,21 @@
+uuid: dc3de2da-7b63-46cd-af7a-2316e9073f72
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_utilisateur
+    - node.type.white_books
+id: node.white_books.field_utilisateur
+field_name: field_utilisateur
+entity_type: node
+bundle: white_books
+label: Utilisateur
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:user'
+  handler_settings: {  }
+field_type: entity_reference

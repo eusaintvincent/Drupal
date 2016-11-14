@@ -1,0 +1,30 @@
+uuid: 5086776f-367b-453c-b1e6-e5ea21907f7d
+langcode: fr
+status: true
+dependencies:
+  module:
+    - options
+    - user
+id: user.field_staff
+field_name: field_staff
+entity_type: user
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: 'Moins de 10 salariés'
+      label: 'Moins de 10 salariés'
+    -
+      value: 'Entre 10 et 49 salariés'
+      label: 'Entre 10 et 49 salariés'
+    -
+      value: 'Plus de 50 salariés'
+      label: 'Plus de 50 salariés'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

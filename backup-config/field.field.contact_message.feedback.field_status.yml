@@ -1,0 +1,23 @@
+uuid: 4a0fa7fe-38ba-417a-8982-2aa9b0230836
+langcode: fr
+status: true
+dependencies:
+  config:
+    - contact.form.feedback
+    - field.storage.contact_message.field_status
+  module:
+    - options
+id: contact_message.feedback.field_status
+field_name: field_status
+entity_type: contact_message
+bundle: feedback
+label: 'Votre statut sur se site'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 'Cliquez ici'
+default_value_callback: ''
+settings: {  }
+field_type: list_string
