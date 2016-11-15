@@ -1,0 +1,27 @@
+uuid: 7a54c748-23de-4075-a0e4-3f7fdd492b3d
+langcode: fr
+status: true
+dependencies:
+  module:
+    - contact
+    - options
+id: contact_message.field_civility
+field_name: field_civility
+entity_type: contact_message
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: Monsieur
+      label: Monsieur
+    -
+      value: Madame
+      label: Madame
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

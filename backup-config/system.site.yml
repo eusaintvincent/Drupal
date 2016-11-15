@@ -1,0 +1,15 @@
+uuid: 9e230504-170d-44d6-a108-b6e7699a357d
+name: 'Livres Blancs'
+mail: corentin.regnier59@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: fr
+default_langcode: fr
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
+mail_notification: ''

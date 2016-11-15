@@ -1,0 +1,8 @@
+settings:
+  allowed_values:
+    -
+      label: '1 to 20'
+    -
+      label: '20 to 50'
+    -
+      label: '50 and more'

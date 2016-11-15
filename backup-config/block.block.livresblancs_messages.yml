@@ -1,0 +1,22 @@
+uuid: 577fd64d-dd26-4cbb-8d7c-9cd36fed727b
+langcode: fr
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - livresblancs
+_core:
+  default_config_hash: KHQIJ7Vfl25lTjzIc7qIvnuistt-Mw2O0kG4jCofmkI
+id: livresblancs_messages
+theme: livresblancs
+region: content
+weight: -9
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

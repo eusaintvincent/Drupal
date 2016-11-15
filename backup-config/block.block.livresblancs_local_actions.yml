@@ -1,0 +1,20 @@
+uuid: b750ef1b-5683-46ba-91ea-b8bed4499a65
+langcode: fr
+status: true
+dependencies:
+  theme:
+    - livresblancs
+_core:
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
+id: livresblancs_local_actions
+theme: livresblancs
+region: content
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }

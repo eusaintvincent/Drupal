@@ -1,0 +1,21 @@
+uuid: cbb5882a-8cb4-4fa5-ac1c-84550064126d
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_staff
+  module:
+    - options
+    - user
+id: user.user.field_staff
+field_name: field_staff
+entity_type: user
+bundle: user
+label: Effectif(groupe)
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

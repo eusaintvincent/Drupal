@@ -1,0 +1,32 @@
+uuid: c94be0f3-e507-4c90-8b2d-73b1c1816314
+langcode: fr
+status: true
+dependencies:
+  config:
+    - system.menu.account-anonymous
+  module:
+    - system
+    - user
+  theme:
+    - livresblancs
+id: account_anonymous
+theme: livresblancs
+region: navbar_branding
+weight: -7
+provider: null
+plugin: 'system_menu_block:account-anonymous'
+settings:
+  id: 'system_menu_block:account-anonymous'
+  label: account_anonymous
+  provider: system
+  label_display: visible
+  level: 1
+  depth: 0
+visibility:
+  user_role:
+    id: user_role
+    roles:
+      anonymous: anonymous
+    negate: false
+    context_mapping:
+      user: '@user.current_user_context:current_user'

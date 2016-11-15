@@ -1,0 +1,18 @@
+uuid: 310aa754-c964-4b13-8e0d-37e10ac90b2c
+langcode: fr
+status: true
+dependencies:
+  config:
+    - comment.type.comment
+id: comment.comment.homepage
+field_name: homepage
+entity_type: comment
+bundle: comment
+label: 'Page d''accueil'
+description: 'L''adresse de la page d''accueil de l''auteur du commentaire.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: uri

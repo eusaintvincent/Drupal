@@ -1,0 +1,6 @@
+settings:
+  allowed_values:
+    1:
+      label: 'A4 landscape'
+    3:
+      label: 'A5 landscape'

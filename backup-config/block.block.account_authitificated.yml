@@ -1,0 +1,32 @@
+uuid: 3287ee05-5134-46c2-8ac4-138860b67fe5
+langcode: fr
+status: true
+dependencies:
+  config:
+    - system.menu.account-authitificated
+  module:
+    - system
+    - user
+  theme:
+    - livresblancs
+id: account_authitificated
+theme: livresblancs
+region: navbar_branding
+weight: -6
+provider: null
+plugin: 'system_menu_block:account-authitificated'
+settings:
+  id: 'system_menu_block:account-authitificated'
+  label: account_authitificated
+  provider: system
+  label_display: visible
+  level: 1
+  depth: 0
+visibility:
+  user_role:
+    id: user_role
+    roles:
+      authenticated: authenticated
+    negate: false
+    context_mapping:
+      user: '@user.current_user_context:current_user'

@@ -1,0 +1,54 @@
+uuid: 791e6847-f4ed-4b27-87bf-4871f964c8cd
+langcode: fr
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.user.compact
+    - field.field.user.user.field_activity_sector
+    - field.field.user.user.field_birthday
+    - field.field.user.user.field_cgu
+    - field.field.user.user.field_city
+    - field.field.user.user.field_civility
+    - field.field.user.user.field_company
+    - field.field.user.user.field_company_type
+    - field.field.user.user.field_establishments_number
+    - field.field.user.user.field_first_name
+    - field.field.user.user.field_job
+    - field.field.user.user.field_job_address
+    - field.field.user.user.field_last_name
+    - field.field.user.user.field_mobile_phone
+    - field.field.user.user.field_postal_code
+    - field.field.user.user.field_professional_phone
+    - field.field.user.user.field_professional_situation
+    - field.field.user.user.field_staff
+    - field.field.user.user.field_turnover
+  module:
+    - user
+_core:
+  default_config_hash: C3k_McOy8bL8rTnIjspy5OfFdgqV1z6OdGZaI-tO5eM
+id: user.user.compact
+targetEntityType: user
+bundle: user
+mode: compact
+content: {  }
+hidden:
+  field_activity_sector: true
+  field_birthday: true
+  field_cgu: true
+  field_city: true
+  field_civility: true
+  field_company: true
+  field_company_type: true
+  field_establishments_number: true
+  field_first_name: true
+  field_job: true
+  field_job_address: true
+  field_last_name: true
+  field_mobile_phone: true
+  field_postal_code: true
+  field_professional_phone: true
+  field_professional_situation: true
+  field_staff: true
+  field_turnover: true
+  langcode: true
+  member_for: true

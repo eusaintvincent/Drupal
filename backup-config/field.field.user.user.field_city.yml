@@ -1,0 +1,20 @@
+uuid: 73aea289-bd0f-4bf6-9981-cfc5a6ee9061
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_city
+  module:
+    - user
+id: user.user.field_city
+field_name: field_city
+entity_type: user
+bundle: user
+label: Ville
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

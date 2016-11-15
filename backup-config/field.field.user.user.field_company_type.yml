@@ -1,0 +1,21 @@
+uuid: 94055f30-86a1-4ece-8542-fbe95e29fafd
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_company_type
+  module:
+    - options
+    - user
+id: user.user.field_company_type
+field_name: field_company_type
+entity_type: user
+bundle: user
+label: 'Type de société'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

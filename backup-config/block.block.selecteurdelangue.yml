@@ -1,0 +1,28 @@
+uuid: 05422437-0593-4ab3-b2d9-21d3d81068e3
+langcode: fr
+status: false
+dependencies:
+  module:
+    - language
+  theme:
+    - livresblancs
+id: selecteurdelangue
+theme: livresblancs
+region: '-1'
+weight: -10
+provider: null
+plugin: 'language_block:language_interface'
+settings:
+  id: 'language_block:language_interface'
+  label: FR
+  provider: language
+  label_display: visible
+visibility:
+  language:
+    id: language
+    langcodes:
+      fr: fr
+      en: en
+    negate: false
+    context_mapping:
+      language: '@language.current_language_context:language_interface'

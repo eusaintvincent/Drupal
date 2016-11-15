@@ -1,0 +1,30 @@
+uuid: f0257d90-c776-423f-a401-7d6b568e11a7
+langcode: fr
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_page_number
+field_name: field_page_number
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: '1'
+      label: '1 à 20'
+    -
+      value: '2'
+      label: '20 à 50'
+    -
+      value: '3'
+      label: '50 et plus'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

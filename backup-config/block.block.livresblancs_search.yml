@@ -1,0 +1,22 @@
+uuid: 969a53b5-8518-4846-ba15-9fe73f96249d
+langcode: fr
+status: false
+dependencies:
+  module:
+    - search
+  theme:
+    - livresblancs
+_core:
+  default_config_hash: za-39d5WDUg6XvbyqSnuVYEeq6QM4qKJxW8MnoAha5A
+id: livresblancs_search
+theme: livresblancs
+region: '-1'
+weight: -7
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  provider: search
+  label_display: visible
+visibility: {  }

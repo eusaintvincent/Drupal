@@ -1,0 +1,21 @@
+uuid: 7a37a8e4-f725-489f-8d13-691362d902ed
+langcode: fr
+status: true
+dependencies:
+  config:
+    - contact.form.feedback
+    - field.storage.contact_message.field_is_member
+id: contact_message.feedback.field_is_member
+field_name: field_is_member
+entity_type: contact_message
+bundle: feedback
+label: 'Déjà membre/inscrit?'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  on_label: Oui
+  off_label: Non
+field_type: boolean

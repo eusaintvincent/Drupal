@@ -1,0 +1,25 @@
+uuid: 2d0c5d1d-9e27-4ddb-b62b-88f9668f8e00
+langcode: fr
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:3bf02e7f-da85-497c-803b-29aaaed08f69'
+  module:
+    - block_content
+  theme:
+    - livresblancs
+id: socialfooterlinks
+theme: livresblancs
+region: footer
+weight: 0
+provider: null
+plugin: 'block_content:3bf02e7f-da85-497c-803b-29aaaed08f69'
+settings:
+  id: 'block_content:3bf02e7f-da85-497c-803b-29aaaed08f69'
+  label: 'Social footer links'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

@@ -1,0 +1,8 @@
+settings:
+  allowed_values:
+    -
+      label: 'Less than 10 employees'
+    -
+      label: 'Between 10 and 49 employees'
+    -
+      label: 'More than 50 employees'

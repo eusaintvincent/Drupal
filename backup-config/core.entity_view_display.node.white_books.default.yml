@@ -1,0 +1,120 @@
+uuid: 093d9e6f-0308-4a1e-bc39-7f9e1c12edf1
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.field.node.white_books.body
+    - field.field.node.white_books.field_date
+    - field.field.node.white_books.field_download_count
+    - field.field.node.white_books.field_file
+    - field.field.node.white_books.field_format
+    - field.field.node.white_books.field_image
+    - field.field.node.white_books.field_key_words
+    - field.field.node.white_books.field_language
+    - field.field.node.white_books.field_main_category
+    - field.field.node.white_books.field_page_number
+    - field.field.node.white_books.field_secondary_category
+    - field.field.node.white_books.field_utilisateur
+    - node.type.white_books
+  module:
+    - datetime
+    - file
+    - image
+    - languagefield
+    - options
+    - text
+    - user
+id: node.white_books.default
+targetEntityType: node
+bundle: white_books
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 101
+    settings: {  }
+    third_party_settings: {  }
+  field_date:
+    weight: 110
+    label: above
+    settings:
+      timezone_override: ''
+      date_format: d/m/Y
+    third_party_settings: {  }
+    type: datetime_custom
+  field_download_count:
+    weight: 111
+    label: above
+    settings:
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {  }
+    type: number_integer
+  field_file:
+    weight: 105
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: file_default
+  field_format:
+    weight: 106
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: list_default
+  field_image:
+    weight: 104
+    label: above
+    settings:
+      image_style: ''
+      image_link: ''
+    third_party_settings: {  }
+    type: image
+  field_key_words:
+    weight: 107
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+  field_language:
+    weight: 103
+    label: above
+    settings:
+      link_to_entity: false
+      format:
+        name: name
+    third_party_settings: {  }
+    type: languagefield_default
+  field_main_category:
+    weight: 108
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: list_default
+  field_page_number:
+    weight: 102
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: list_default
+  field_secondary_category:
+    weight: 109
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: list_default
+  field_utilisateur:
+    weight: 112
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  langcode: true

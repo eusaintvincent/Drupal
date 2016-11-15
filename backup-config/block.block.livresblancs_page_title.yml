@@ -1,0 +1,20 @@
+uuid: 35d845a7-3958-4b08-a074-cd358cdff3af
+langcode: fr
+status: false
+dependencies:
+  theme:
+    - livresblancs
+_core:
+  default_config_hash: 7rR9chwXvdM2H8OYMAYx9Zj3GGlPMrZp_M3ZA4thYTk
+id: livresblancs_page_title
+theme: livresblancs
+region: '-1'
+weight: -9
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

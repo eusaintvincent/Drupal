@@ -1,0 +1,25 @@
+uuid: aac27753-945f-4b85-8e83-cfed21a32c2d
+langcode: fr
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:6a1e8654-eaab-412a-856c-2a8c322a680b'
+  module:
+    - block_content
+  theme:
+    - livresblancs
+id: allrightsreserved
+theme: livresblancs
+region: footer
+weight: 0
+provider: null
+plugin: 'block_content:6a1e8654-eaab-412a-856c-2a8c322a680b'
+settings:
+  id: 'block_content:6a1e8654-eaab-412a-856c-2a8c322a680b'
+  label: 'all rights reserved'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

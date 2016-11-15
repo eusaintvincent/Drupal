@@ -1,0 +1,21 @@
+uuid: 86317d77-3d2c-477c-b9f5-628c680548b4
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_main_category
+    - node.type.white_books
+  module:
+    - options
+id: node.white_books.field_main_category
+field_name: field_main_category
+entity_type: node
+bundle: white_books
+label: 'Catégorie principale'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

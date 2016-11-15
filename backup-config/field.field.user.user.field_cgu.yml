@@ -1,0 +1,24 @@
+uuid: 021924de-af26-4f29-9a3d-b3bb09c6a789
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_cgu
+  module:
+    - user
+id: user.user.field_cgu
+field_name: field_cgu
+entity_type: user
+bundle: user
+label: CGU
+description: ''
+required: true
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'J''accepte les conditions générales d''utilisation '
+  off_label: Désactivé
+field_type: boolean

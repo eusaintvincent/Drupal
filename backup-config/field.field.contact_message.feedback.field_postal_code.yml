@@ -1,0 +1,23 @@
+uuid: 1cc39bff-5b44-4a8f-b7ba-a6e4e353906f
+langcode: fr
+status: true
+dependencies:
+  config:
+    - contact.form.feedback
+    - field.storage.contact_message.field_postal_code
+id: contact_message.feedback.field_postal_code
+field_name: field_postal_code
+entity_type: contact_message
+bundle: feedback
+label: 'Code postal'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: 0
+  max: 99999
+  prefix: ''
+  suffix: ''
+field_type: integer

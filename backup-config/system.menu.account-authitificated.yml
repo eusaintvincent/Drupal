@@ -1,0 +1,8 @@
+uuid: 152daaac-e5ee-480d-a6f4-12e3f36c9d04
+langcode: fr
+status: true
+dependencies: {  }
+id: account-authitificated
+label: account_authitificated
+description: ''
+locked: false

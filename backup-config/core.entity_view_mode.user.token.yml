@@ -1,0 +1,10 @@
+uuid: ee2edb31-c2ca-4fad-b460-67b6242536cd
+langcode: fr
+status: true
+dependencies:
+  module:
+    - user
+id: user.token
+label: 'Jeton (token)'
+targetEntityType: user
+cache: true

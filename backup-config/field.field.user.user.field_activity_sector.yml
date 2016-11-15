@@ -1,0 +1,21 @@
+uuid: 85e1073d-3205-4578-8a5d-1ba0e677d2d9
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_activity_sector
+  module:
+    - options
+    - user
+id: user.user.field_activity_sector
+field_name: field_activity_sector
+entity_type: user
+bundle: user
+label: 'Secteur d''activité'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string
