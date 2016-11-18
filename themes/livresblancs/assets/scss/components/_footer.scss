@@ -16,17 +16,21 @@ footer {
     .block-content--socialfooterlinks {
         color: #999999;
         font-size: 13px;
+
         span {
             font-size: 16px;
+
             a {
                 padding-left: 10px;
                 color: rgba(95, 98, 115, 1);
+
                 span {
                     display: none;
                 }
             }
             a:hover {
                 color: rgba(255, 255, 255, 1);
+                transition: 0.3s;
             }
         }
     }
@@ -34,6 +38,7 @@ footer {
         color: #858585;
         font-size: 12px;
         padding-top: 50px;
+
         a[href] {
             color: #858585;
         }
@@ -48,6 +53,7 @@ footer {
         width: 150px;
         height: 133px;
         font-size: 12px;
+
         li {
             a {
                 padding-top: 0px !important;
@@ -94,6 +100,7 @@ footer {
         .col-md-3 {
             float: left;
             width: 25%;
+            padding: 0;
         }
         .col-md-12 {
             float: left;
