@@ -6,6 +6,7 @@ module:
   big_pipe: 0
   block: 0
   block_content: 0
+  block_example: 0
   breakpoint: 0
   captcha: 0
   ckeditor: 0
@@ -25,6 +26,7 @@ module:
   edit_ui_contextual: 0
   editor: 0
   email_registration: 0
+  examples: 0
   field: 0
   field_group: 0
   field_ui: 0
