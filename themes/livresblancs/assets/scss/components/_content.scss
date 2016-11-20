@@ -1,7 +1,24 @@
 // Styles for Header
 // -----------------------------------------------------------------------------
 
-.container {
-    width: 1188px;
-    padding-left: 0px;
+main {
+    .container {
+        width: auto;
+    }
+}
+
+@media (min-width: $screen-desktop) {
+    main {
+        .container {
+            width: auto !important;
+        }
+    }
+}
+
+@media (min-width: $screen-tablet) {
+    main {
+        .container {
+            width: auto !important;
+        }
+    }
 }
