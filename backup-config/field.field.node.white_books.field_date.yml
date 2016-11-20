@@ -11,9 +11,9 @@ id: node.white_books.field_date
 field_name: field_date
 entity_type: node
 bundle: white_books
-label: date
-description: '[current-date:html_date]'
-required: false
+label: 'Date de sortie'
+description: ''
+required: true
 translatable: false
 default_value: {  }
 default_value_callback: ''

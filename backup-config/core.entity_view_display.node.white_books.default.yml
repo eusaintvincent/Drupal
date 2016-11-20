@@ -13,6 +13,7 @@ dependencies:
     - field.field.node.white_books.field_language
     - field.field.node.white_books.field_main_category
     - field.field.node.white_books.field_page_number
+    - field.field.node.white_books.field_resume
     - field.field.node.white_books.field_secondary_category
     - field.field.node.white_books.field_utilisateur
     - node.type.white_books
@@ -99,6 +100,12 @@ content:
     settings: {  }
     third_party_settings: {  }
     type: list_default
+  field_resume:
+    weight: 113
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: basic_string
   field_secondary_category:
     weight: 109
     label: above
