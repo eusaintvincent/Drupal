@@ -13,6 +13,10 @@ dependencies:
     - field.field.node.white_books.field_language
     - field.field.node.white_books.field_main_category
     - field.field.node.white_books.field_page_number
+<<<<<<< HEAD
+=======
+    - field.field.node.white_books.field_resume
+>>>>>>> 4eb130d1fc6235d4453fc251b047a1b45b2a648a
     - field.field.node.white_books.field_secondary_category
     - field.field.node.white_books.field_utilisateur
     - node.type.white_books
@@ -99,6 +103,15 @@ content:
     settings: {  }
     third_party_settings: {  }
     type: list_default
+<<<<<<< HEAD
+=======
+  field_resume:
+    weight: 113
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: basic_string
+>>>>>>> 4eb130d1fc6235d4453fc251b047a1b45b2a648a
   field_secondary_category:
     weight: 109
     label: above

@@ -17,3 +17,7 @@ permissions:
   - 'access site-wide contact form'
   - 'access shortcuts'
   - 'search content'
+<<<<<<< HEAD
+=======
+  - 'create white_books content'
+>>>>>>> 4eb130d1fc6235d4453fc251b047a1b45b2a648a

@@ -14,7 +14,11 @@ settings:
   case_sensitive: false
 module: core
 locked: false
+<<<<<<< HEAD
 cardinality: 10
+=======
+cardinality: -1
+>>>>>>> 4eb130d1fc6235d4453fc251b047a1b45b2a648a
 translatable: true
 indexes: {  }
 persist_with_no_fields: false

@@ -6,6 +6,10 @@ module:
   big_pipe: 0
   block: 0
   block_content: 0
+<<<<<<< HEAD
+=======
+  block_example: 0
+>>>>>>> 4eb130d1fc6235d4453fc251b047a1b45b2a648a
   breakpoint: 0
   captcha: 0
   ckeditor: 0
@@ -25,6 +29,10 @@ module:
   edit_ui_contextual: 0
   editor: 0
   email_registration: 0
+<<<<<<< HEAD
+=======
+  examples: 0
+>>>>>>> 4eb130d1fc6235d4453fc251b047a1b45b2a648a
   field: 0
   field_group: 0
   field_ui: 0
