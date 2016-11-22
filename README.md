@@ -12,7 +12,7 @@ Projet développé en licence au Lycée Saint Vincent de Senlis
  - User mail : thibautpenhard@yahoo.fr
  - User PWD : user
  
- Pré-prod : livresblancs.esy.es
+ Pré-prod : [Livres Blancs](http://www.livresblancs.esy.es)
  
 Installation
 ------------
