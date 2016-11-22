@@ -72,3 +72,8 @@ Récupération du projet
 Si vous utilisez les caches, il sera nécessaire de les vider pour voir toutes les nouveautés grâce à la commande suivante:
 
  * drush cache-rebuild
+
+# Browser Stack
+
+Pour les test Navigateur, normalement, c’est définit dans le cahier des charges.
+Par défaut c’est N et N-1 pour tout les navigateurs (Chrome, firefox, edge, Ie, safari)
