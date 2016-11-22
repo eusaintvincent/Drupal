@@ -7,6 +7,13 @@ Projet développé en licence au Lycée Saint Vincent de Senlis
  - Admin mail : corentin.regnier59@gmail.com
  - Admin PWD : admin
  
+--
+
+ - User mail : thibautpenhard@yahoo.fr
+ - User PWD : user
+ 
+ Pré-prod : livresblancs.esy.es
+ 
 Installation
 ------------
 Récupérer le projet sur notre environnement de développement:
