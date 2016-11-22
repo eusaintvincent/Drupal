@@ -1,0 +1,4 @@
+download_count:
+	path: /whitebooks/downloads/{filename}
+	defaults:
+		_controller: 'modules/whitebooks_count_downloads/src/Controller/CountDownload::countDowload'
