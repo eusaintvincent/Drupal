@@ -1,0 +1,19 @@
+uuid: c9675f9d-f04f-424f-8ec3-e3daf96bcacf
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_resume
+    - node.type.white_books
+id: node.white_books.field_resume
+field_name: field_resume
+entity_type: node
+bundle: white_books
+label: Résumé
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long
