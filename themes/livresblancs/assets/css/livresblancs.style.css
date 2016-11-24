@@ -8585,6 +8585,8 @@ footer {
       float: left;
       width: 25%;
       padding: 0; }
+    footer .block-content--socialfooterlinks span {
+      font-size: 14px; }
     footer .col-md-12, footer .calendar-calendar, footer .view .row > .list-group, .view footer .row > .list-group {
       float: left;
       width: 100%; } }
