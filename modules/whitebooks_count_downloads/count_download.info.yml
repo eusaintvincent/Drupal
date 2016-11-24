@@ -1,0 +1,6 @@
+name: Count Download Module
+description: For each time you click on dowload, count it.
+package: Custom
+
+type: module
+core: 8.x
