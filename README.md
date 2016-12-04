@@ -7,6 +7,13 @@ Projet développé en licence au Lycée Saint Vincent de Senlis
  - Admin mail : corentin.regnier59@gmail.com
  - Admin PWD : admin
  
+--
+
+ - User mail : thibautpenhard@yahoo.fr
+ - User PWD : user
+ 
+ Pré-prod : [Livres Blancs](http://www.livresblancs.esy.es)
+ 
 Installation
 ------------
 Récupérer le projet sur notre environnement de développement:
@@ -65,3 +72,8 @@ Récupération du projet
 Si vous utilisez les caches, il sera nécessaire de les vider pour voir toutes les nouveautés grâce à la commande suivante:
 
  * drush cache-rebuild
+
+# Browser Stack
+
+Pour les test Navigateur, normalement, c’est définit dans le cahier des charges.
+Par défaut c’est N et N-1 pour tout les navigateurs (Chrome, firefox, edge, Ie, safari)
