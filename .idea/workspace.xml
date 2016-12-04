@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30582292-c9b6-40f7-8231-cb83900cfe7e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/base/_utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_actualities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_homepage.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_livres_blancs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_slider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/block/homepage/actualities/block--views-block--actualites-block-1.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/block/homepage/slider/block--views-block--slider-block-slider.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/block/homepage/whitebooks/block--views-block--nouveaux-livres-blancs-publies-block-1.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/node/actualities/node--view--actualites--block-1.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/node/slider/node--view--slider--block-slider.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/node/whitebooks/node--view--nouveaux-livres-blancs-publies--block-1.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/view/views-view-unformatted--slider--block-slider.html.twig" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/languages/fr_a9-1uCqcXeuDakTlDKRTHW7HGSo-GE7w5XwrqRpjiok.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/livresblancs/couvertures/drstrange.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/livresblancs/couvertures/drstrange_0.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/livresblancs/couvertures/images.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/livresblancs/couvertures/index.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/livresblancs/couvertures/index_0.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/livresblancs/couvertures/snowden.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/livresblancs/fichiers/cv.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/livresblancs/fichiers/cv_0.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/livresblancs/fichiers/cv_1.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/livresblancs/fichiers/cv_2.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/livresblancs/fichiers/cv_3.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/livresblancs/fichiers/cv_4.pdf" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/livresblancs/templates/block/block--allrightsreserved.html.twig" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/block/footer/block--allrightsreserved.html.twig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/livresblancs/templates/block/block--description.html.twig" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/block/footer/block--description.html.twig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/livresblancs/templates/block/block--socialfooterlinks.html.twig" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/block/footer/block--socialfooterlinks.html.twig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/livresblancs/templates/block/block--system-menu-block--footer.html.twig" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/block/footer/block--system-menu-block--footer.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/livresblancs/assets/css/livresblancs.style.css" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/css/livresblancs.style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/livresblancs/assets/css/livresblancs.style.css.map" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/css/livresblancs.style.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/livresblancs/assets/js/livresblancs.script.js" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/js/livresblancs.script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/livresblancs/assets/scss/base/_typography.scss" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/base/_typography.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/livresblancs/assets/scss/base/_variables.scss" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/base/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_content.scss" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_content.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_global.scss" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_global.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_header.scss" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_menu.main.scss" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/components/_menu.main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/livresblancs/assets/scss/livresblancs.style.scss" afterPath="$PROJECT_DIR$/themes/livresblancs/assets/scss/livresblancs.style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/livresblancs/livresblancs.libraries.yml" afterPath="$PROJECT_DIR$/themes/livresblancs/livresblancs.libraries.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/livresblancs/templates/page/page.html.twig" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/page/page.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/livresblancs/templates/system/html.html.twig" afterPath="$PROJECT_DIR$/themes/livresblancs/templates/system/html.html.twig" />
-    </list>
+    <list default="true" id="30582292-c9b6-40f7-8231-cb83900cfe7e" name="Default" comment="" />
     <ignored path="LivresBlancs.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -493,12 +449,12 @@
       <workItem from="1480587943735" duration="12072000" />
       <workItem from="1480625190140" duration="4123000" />
       <workItem from="1480666090389" duration="5039000" />
-      <workItem from="1480856290907" duration="13085000" />
+      <workItem from="1480856290907" duration="13328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163100000" />
+    <option name="totallyTimeSpent" value="163343000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
