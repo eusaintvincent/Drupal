@@ -1,0 +1,141 @@
+// Nouveaux livres blancs publiés
+// -----------------------------------------------------------------------------
+
+.view--nouveaux-livres-blancs-publies {
+
+    .info-livre {
+        height: 285px;
+
+        p {
+            max-height: 126px;
+            overflow: hidden;
+        }
+    }
+    img {
+        border-width: 1px;
+        border-radius: 0px;
+        border-color: rgb(200, 200, 200);
+        border-style: solid;
+
+        &:hover {
+            opacity: 0.7;
+            transition: 0.3s;
+            transition-timing-function: linear;
+        }
+    }
+
+    .title {
+        font-size: 24px;
+        color: #0065b3;
+
+        &:hover {
+            text-decoration: none;
+            opacity: 0.7;
+            transition: 0.3s;
+            transition-timing-function: linear;
+        }
+    }
+
+    .sub-title {
+
+        .author {
+            text-decoration: underline;
+        }
+    }
+
+    .download {
+        font-size: 16px !important;
+        color: #aaa;
+        float: right;
+
+        .material-icons {
+            font-size: 16px !important;
+        }
+    }
+
+    .keywords {
+        background-color: rgb(238, 238, 238);
+        border-color: rgb(102, 102, 102);
+        border-width: 0px;
+        border-radius: 0px;
+        border-style: solid;
+        color: rgb(102, 102, 102);
+        font-weight: bold;
+        font-size: 8px;
+        text-align: center;
+        margin: 20px 10px 0 0;
+        padding: 6px 10px;
+    }
+
+    .resume {
+        color: #666666;
+        font-size: 15px;
+    }
+
+    .button-download {
+        background-color: rgb(255, 255, 255);
+        font-weight: bold;
+        padding: 10px 14px;
+        border-width: 1px;
+        border-radius: 0px;
+        border-style: solid;
+        border-color: rgb(0, 101, 179);
+        color: rgb(0, 101, 179);
+        font-size: 14px;
+        font-style: normal;
+        text-align: center;
+        position: absolute;
+        bottom: 0;
+
+        &:hover {
+            text-decoration: none;
+            background-color: rgb(0, 101, 179);
+            color: rgb(255, 255, 255);
+            transition: 0.3s;
+            transition-timing-function: linear;
+        }
+        .ico-butt-download {
+            font-size: 16px;
+        }
+    }
+}
+
+.sub-title {
+    text-transform: uppercase;
+    color: #0065b3;
+    font-size: 13px;
+}
+
+@media (max-width: $screen-desktop - 1) {
+
+    .download {
+        float: none !important;
+    }
+}
+
+@media (max-width: $screen-tablet - 1) {
+    .view--nouveaux-livres-blancs-publies {
+
+        .white-books--teaser {
+            text-align: center;
+        }
+        .info-livre {
+            height: auto;
+        }
+    }
+    .button-download {
+        position: relative !important;
+    }
+    .view--nouveaux-livres-blancs-publies {
+        .row {
+            text-align: center;
+            margin: 0;
+        }
+    }
+    .block--views-block--nouveaux-livres-blancs-publies-block-1 {
+
+        .block__title {
+            text-align: center;
+        }
+    }
+}

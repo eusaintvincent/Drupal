@@ -1,0 +1,385 @@
+//== text
+
+.bold {
+    font-weight: bold;
+}
+
+.regular {
+    font-weight: normal;
+}
+
+.fw-400 {
+    font-weight: 400 !important;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.img-responsive-ib {
+    @include img-responsive(inline-block);
+}
+
+@mixin text-align($align, $column) {
+
+    .text-#{$align}-#{$column} {
+
+        @if $column == lg {
+
+            @media(min-width: $screen-lg-desktop) {
+                text-align: $align;
+            }
+        }
+        @if $column == md {
+
+            @media(min-width: $screen-desktop) {
+                text-align: $align;
+            }
+        }
+        @if $column == sm {
+
+            @media(min-width: $screen-tablet) {
+                text-align: $align;
+            }
+        }
+        @if $column == xs {
+
+            @media(min-width: $screen-phone) {
+                text-align: $align;
+            }
+        }
+    }
+
+}
+
+@include text-align(right, lg);
+@include text-align(right, md);
+@include text-align(right, sm);
+@include text-align(right, xs);
+
+@include text-align(center, lg);
+@include text-align(center, md);
+@include text-align(center, sm);
+@include text-align(center, xs);
+
+//== borders
+.rounded {
+    border-radius: 9999px;
+}
+
+//== positions
+.abs-center {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+}
+
+//== blocs
+.directions {
+    clear: both;
+    @include clearfix();
+
+    > * {
+        display: inline-block;
+    }
+
+    .left {
+        float: left;
+    }
+    .right {
+        float: right;
+    }
+}
+
+@mixin no-gutter-childrens($selector, $row: false) {
+
+    > [class^="#{$selector}"] {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    @if ($row) {
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+
+.no-gutter-child-lg-row {
+    @include no-gutter-childrens('col-lg-', true);
+}
+
+.no-gutter-child-md-row {
+    @include no-gutter-childrens('col-md-', true);
+}
+
+.no-gutter-child-sm-row {
+    @include no-gutter-childrens('col-sm-', true);
+}
+
+.no-gutter-child-lg {
+    @include no-gutter-childrens('col-lg-');
+}
+
+.no-gutter-child-md {
+    @include no-gutter-childrens('col-md-');
+}
+
+.no-gutter-child-sm {
+    @include no-gutter-childrens('col-sm-');
+}
+
+.full-width {
+    width: 100%;
+}
+
+.full-width-lg {
+
+    @media(min-width: $screen-lg-desktop) {
+        width: 100%;
+    }
+}
+
+.full-width-md {
+
+    @media(min-width: $screen-desktop) {
+        width: 100%;
+    }
+}
+
+.full-width-sm {
+
+    @media(min-width: $screen-tablet) {
+        width: 100%;
+    }
+}
+
+.full-width-xs {
+
+    @media(min-width: $screen-phone) {
+        width: 100%;
+    }
+}
+
+.container-reset {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.row-reset {
+    margin-left: 0;
+    margin-right: 0;
+
+    > div {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+.row-medium {
+    margin-left: -10px;
+    margin-right: -10px;
+
+    > div {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+.row-sm {
+    margin-left: -7.5px;
+    margin-right: -7.5px;
+
+    > div {
+        padding-left: 7.5px;
+        padding-right: 7.5px;
+    }
+}
+
+.row-xs {
+    margin-left: -5px;
+    margin-right: -5px;
+
+    > div {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+
+@mixin loop-block-spaces($property, $direction, $integer) {
+
+    $pattern: #{str-slice($property, 1, 1)}#{str-slice($direction, 1, 1)};
+
+    .#{$pattern}-0 {
+        #{$property}-#{$direction}: 0 !important
+    }
+
+    @while $integer > 0 {
+
+        .#{$pattern}-#{$integer} {
+            #{$property}-#{$direction}: #{$integer}px !important;
+        }
+        $integer: if($integer == 0, 0, $integer - 5);
+    }
+}
+
+@each $property in (top, bottom, right, left) {
+    @include loop-block-spaces(margin, $property, 35);
+    @include loop-block-spaces(padding, $property, 35);
+}
+
+.empathise {
+    margin: 15px 0 !important;
+}
+
+hr.medium {
+    margin-top: $line-height-computed / 2;
+    margin-bottom: $line-height-computed / 2;
+}
+
+hr.small {
+    margin-top: $line-height-computed / 3;
+    margin-bottom: $line-height-computed / 3;
+}
+
+.icon-mr {
+    margin-right: 5px;
+}
+
+.icon-mr-m {
+    margin-right: 10px;
+}
+
+.icon-ml {
+    margin-left: 5px;
+}
+
+.icon-ml-m {
+    margin-left: 10px;
+}
+
+.icon-mmt {
+    margin-top: -3px;
+}
+
+@mixin media-is-responsive() {
+
+    .media-left, .media-right, .media-body {
+        display: block;
+        width: 100%;
+    }
+
+}
+
+@media(max-width: $screen-tablet) {
+
+    .media-is-responsive-tablet {
+        @include media-is-responsive();
+    }
+}
+
+@media(max-width: $screen-phone) {
+
+    .media-is-responsive-phone {
+        @include media-is-responsive();
+    }
+}
+
+.no-border-top {
+    border-top: 0 !important;
+}
+
+.no-border-bottom {
+    border-bottom: 0;
+}
+
+//== vertical align
+.va-base {
+    vertical-align: baseline;
+}
+
+.child-va-top > * {
+    vertical-align: top;
+    line-height: 1em;
+}
+
+.child-va-middle > * {
+    vertical-align: middle;
+    line-height: 1em;
+}
+
+.child-va-bottom > * {
+    vertical-align: bottom;
+    line-height: 1em;
+}
+
+.child-va-baseline > * {
+    vertical-align: baseline;
+    line-height: 1em;
+}
+
+.va-bottom {
+    vertical-align: bottom;
+}
+
+.va-top {
+    vertical-align: top;
+}
+
+//== backgrounds
+.cover {
+    background-size: cover;
+}
+
+//== animation
+
+.img-hover-scale {
+
+    img {
+        @include transition(all .8s ease);
+    }
+    &:hover img {
+        @include scale(1.05);
+    }
+}
+
+//== responsive helpers
+.breakpoint-show {
+
+}
+
+.breakpoint-hide {
+    display: none;
+}
+
+@media(min-width: $grid-float-breakpoint) {
+
+    .breakpoint-show {
+        display: none;
+    }
+    .breakpoint-hide {
+        display: block;
+    }
+}
+
+.crop {
+    overflow: hidden;
+}

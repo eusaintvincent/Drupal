@@ -2,13 +2,16 @@
 // -----------------------------------------------------------------------------
 
 main {
+
     .container {
         width: auto;
     }
 }
 
 @media (min-width: $screen-desktop) {
+
     main {
+
         .container {
             width: auto !important;
         }
@@ -16,7 +19,9 @@ main {
 }
 
 @media (min-width: $screen-tablet) {
+
     main {
+
         .container {
             width: auto !important;
         }

@@ -14,10 +14,15 @@
 }
 
 .block--livresblancs-main-menu {
+
     .navbar-toggler {
         display: none;
         float: right;
     }
+}
+
+.navbar-default {
+    background-color: #fff;
 }
 
 .navbar-header {
@@ -35,11 +40,13 @@
 
     }
     .block--langue {
+
         .navbar-nav {
             padding-right: 20px;
         }
         float: right;
         li:first-child {
+
             a::after {
                 color: rgb(153, 153, 153) !important;
             }
@@ -51,11 +58,14 @@
         }
     }
     .block--account-authitificated, .block--account-anonymous {
+
         .navbar-nav {
             padding-right: 20px;
         }
         float: right;
+
         li:first-child {
+
             a::after {
                 color: rgb(153, 153, 153) !important;
                 content: '|';
@@ -69,6 +79,7 @@
         }
 
         li:last-child {
+
             a::after {
                 padding-left: 10px;
                 color: rgba(0, 101, 179, 1);
@@ -77,7 +88,6 @@
                 font-size: 20px !important;
             }
             a:hover::after, a:hover {
-
                 transition: 0.3s;
                 transition-timing-function: linear;
                 color: #88AC2E;
@@ -87,7 +97,9 @@
     }
     .block--livresblancs-account-menu {
         float: right;
+
         .navbar-nav {
+
             a {
                 font-size: 13px;
                 background-color: #FFFFFF !important;
@@ -96,11 +108,16 @@
         }
     }
     .block--livresblancs-main-menu {
+
         .navbar-nav {
+
             li {
                 padding-right: 20px;
-                padding-left: 11px;
+                padding-left: 9px;
 
+                &:last-child {
+                    padding-left: 0;
+                }
                 a {
                     text-transform: uppercase;
                     font-size: 14px;
@@ -109,12 +126,13 @@
                     padding-top: 5px;
                     background-color: #FFFFFF !important;
                     color: rgb(153, 153, 153) !important;
+
                     &.is-active::after {
-                        display: block;
-                        content: " ";
-                        margin-top: 3px;
-                        height: 3px;
-                        width: 100%;
+                        display: block !important;
+                        content: " " !important;
+                        margin-top: 3px !important;
+                        height: 3px !important;
+                        width: 100% !important;
                         background-color: #EEEEEE !important;
                     }
                     i {
@@ -132,6 +150,7 @@
 }
 
 header {
+
     button {
         background-color: #A7A8AC;
         border-radius: 10px;
@@ -157,6 +176,7 @@ header {
             top: 50%;
             opacity: 1;
             transition: all 0.3s linear;
+
             &:first-child {
                 top: 7px;
             }
@@ -169,9 +189,11 @@ header {
             }
         }
         &.on {
+
             .icon-bar {
                 top: 50%;
                 bottom: auto;
+
                 &:nth-child(2) {
                     opacity: 0;
                 }
@@ -187,17 +209,25 @@ header {
 }
 
 @media (max-width: $screen-lg-desktop - 1) {
+
     .navbar-header {
+
         .block--livresblancs-main-menu {
+
             .navbar-nav {
+
                 li {
+
                     a {
+
                         font-size: 11px;
+
                         i {
                             font-size: 21px;
                         }
                     }
                 }
+
                 li:last-child {
                     padding: 0;
                 }
@@ -207,8 +237,8 @@ header {
 }
 
 @media (max-width: $screen-desktop - 1) {
+
     header {
-        margin-bottom: 20px;
 
         .col-md-2 {
             display: inline-block;
@@ -220,6 +250,7 @@ header {
         }
     }
     .block--livresblancs-main-menu {
+
         .navbar-toggler {
             display: block;
         }
@@ -252,6 +283,7 @@ header {
                     }
                 }
             }
+
             &.actif {
                 left: 0;
                 opacity: 1;
@@ -262,6 +294,7 @@ header {
         margin: inherit;
     }
     .block--livresblancs-account-menu, .block--account-anonymous {
+
         .nav > li {
             display: inline-block;
         }
@@ -270,21 +303,21 @@ header {
 
 @media (max-width: 507px) {
     header {
+        text-align: center;
+
         .col-md-2 {
-            margin-left: 25%;
         }
         .col-md-10 {
-            margin-left: 15%;
             width: 100%;
             float: inherit;
             height: inherit;
 
-            .navbar-header {
+            .navbar-toggler {
                 float: left;
+                left: 20px;
             }
-            .block--livresblancs-main-menu .navbar-toggler {
-                float: left;
-                margin-left: 20px;
+            .navbar-header {
+                float: inherit;
             }
         }
     }
