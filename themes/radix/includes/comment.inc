@@ -14,7 +14,7 @@ function radix_preprocess_comment(&$variables) {
   $variables['title_attributes_array']['class'][] = 'media-heading';
 
   // Use icon for permalink.
-  $uri = entity_uri('comment', $comment);
+  $uri = $enitity->uri('comment', $comment);
   $uri['options'] += array(
     'attributes' => array(
       'class' => 'permalink muted pull-right',

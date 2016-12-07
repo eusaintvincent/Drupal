@@ -10,11 +10,16 @@ base theme: radix
 
 regions:
   navbar_branding: 'Header'
+  hpSlide: 'homepage carousel'
+  hparticle: 'homepage remonté article'
+  hpRemonté: 'homepage remonté livres blanc'
+  hpAside: 'homepage Aside'
   content: Content
   footer: Footer
 
 libraries:
   - livresblancs/base
+  - livresblancs/livresblancs
 
 # Information added by Drupal.org packaging script on 2016-06-15
 version: '8.x-3.0-alpha4'
