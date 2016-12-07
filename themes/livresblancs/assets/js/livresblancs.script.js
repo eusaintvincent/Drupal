@@ -4,15 +4,25 @@
  */
 (function ($) {
 
-    // Hello World.
-    Drupal.behaviors.helloWorld = {
-        attach: function (context) {
-            console.log('Hello World');
-        }
-    }
-
     $('header nav button').click(function () {
         $(this).toggleClass('on');
         $('header .navbar-nav').toggleClass('actif');
     });
+
+
+    var global ={
+        init: function(){
+            this.hpcarousel();
+        },
+        hpcarousel: function(){
+            $('.block--views-block--slide-block-1 .view__content').slick();
+        }
+    }
+
+
+    
+    $(document).ready(function(){
+        global.init();
+    })
+    
 })(jQuery);

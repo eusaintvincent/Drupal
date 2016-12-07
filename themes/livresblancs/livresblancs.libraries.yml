@@ -1,12 +1,20 @@
 base:
-  version: VERSION
-  css:
-    theme:
-      assets/css/livresblancs.style.css: {}
-  js:
-    bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js: {}
-    assets/js/livresblancs.script.js: {}
-  dependencies:
-    - core/jquery
-    - core/jquery.once
-    - core/drupal
+   version: VERSION
+   css:
+       slider:
+           http://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css: { type: external, minified: true }
+           http://cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css: { type: external, minified: true }
+   js:
+       bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js: {}
+       http://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js: { type: external, minified: true }
+   dependencies:
+   - core/jquery
+   - core/jquery.once
+   - core/drupal
+
+livresblancs:
+    css:
+       theme:
+           assets/css/livresblancs.style.css: {}
+    js:
+       assets/js/livresblancs.script.js: {}
